@@ -1,0 +1,56 @@
+<head>
+  <!-- Canonical link to help search engines -->
+  <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}"/>
+
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }}
+    {% else %}
+      {{ page.title }}
+    {% endif %}
+  </title>
+
+  <!-- Icon -->
+  <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="{{ site.baseurl }}/assets/images/favicon.ico" type="image/x-icon">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+  <!-- styles -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css"/>
+
+  <!-- Javascript -->
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+
+  {% if page.layout == "book" %}
+  <!-- JS dependencies -->
+  <script src="https://code.jquery.com/jquery-migrate-3.0.1.min.js" integrity="sha384-w5FBDpYZssTSnIDL59XH9TYLpEJ2dDP4RPhSPtJd2iLxUY5L8AATkjOsbM4Ohmax" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha384-Dziy8F2VlJQLMShA6FHWNul/veM9bCkRUaLqr199K94ntO5QUrLJBEbYegdSkkqX" crossorigin="anonymous"></script>
+  <script src="{{ site.baseurl }}/assets/BookReader/dragscrollable-br.js"></script>
+  <script src="{{ site.baseurl }}/assets/BookReader/jquery.colorbox-min.js"></script>
+  <script src="{{ site.baseurl }}/assets/BookReader/jquery.bt.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/BookReader/soundmanager/script/soundmanager2-jsmin.js"></script>
+
+  <!-- mmenu for mobile nav -->
+  <script src="{{ site.baseurl }}/assets/BookReader/mmenu/dist/js/jquery.mmenu.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/BookReader/mmenu/dist/addons/navbars/jquery.mmenu.navbars.min.js" ></script>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/BookReader/mmenu/dist/css/jquery.mmenu.css" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/BookReader/mmenu/dist/addons/navbars/jquery.mmenu.navbars.css" />
+
+  <!-- Bookreader -->
+  <script src="{{ site.baseurl }}/assets/BookReader/BookReader.js"></script>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/BookReader/BookReader.css"/>
+
+  <!-- plugins needed for archive.org -->
+  <script src="{{ site.baseurl }}/assets/BookReader/plugins/plugin.url.js"></script>
+  <script src="{{ site.baseurl }}/assets/BookReader/plugins/plugin.resume.js"></script>
+  <script src="{{ site.baseurl }}/assets/BookReader/plugins/plugin.chapters.js"></script>
+  <script src="{{ site.baseurl }}/assets/BookReader/plugins/plugin.tts.js"></script>
+  <script src="{{ site.baseurl }}/assets/BookReader/plugins/plugin.search.js"></script>
+  {% endif %}
+
+</head>
