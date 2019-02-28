@@ -1,3 +1,31 @@
 ---
 layout: default
 ---
+<div class="row">
+  <div class="col-md-12">
+    <div id="newyork-map"></div>
+  </div>
+</div>
+<script type="text/javascript">
+  var map = L.map('newyork-map').setView([40.7621,-73.9280], 12);
+  L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiZml0ZGlnaXRhbGluaXRpYXRpdmVzIiwiYSI6ImNqZ3FxaWI0YTBoOXYyenA2ZnVyYWdsenQifQ.ckTVKSAZ8ZWPAefkd7SOaA', {
+    id: 'mapbox.light',
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' + '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' + 'Imagery © <a href="http://mapbox.com">Mapbox</a>'
+  }).addTo(map);
+
+  function onEachFeature(feature, layer) {
+      // does this feature have a property named popupContent?
+      if (feature.properties.event) {
+          layer.bindPopup(feature.properties.event);
+      }
+  }
+
+  var FeatureCollection = $.getJSON('/assets/geojson/01-06-2014.geojson');
+
+  $.when(FeatureCollection).done(function() {
+    L.geoJSON(FeatureCollection.responseJSON, {
+        onEachFeature: onEachFeature
+    }).addTo(map);
+  });
+
+</script>
