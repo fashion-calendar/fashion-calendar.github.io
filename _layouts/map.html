@@ -3,6 +3,7 @@ layout: default
 ---
 <div class="row">
   <div class="col-md-12">
+    <h1 class="text-center mb-4">January 6, 2014 Issue</h1>
     <div id="newyork-map"></div>
   </div>
 </div>
@@ -14,18 +15,60 @@ layout: default
   }).addTo(map);
 
   function onEachFeature(feature, layer) {
-      // does this feature have a property named popupContent?
-      if (feature.properties.event) {
-          layer.bindPopup(feature.properties.event);
+    var popup_content = '';
+    if (feature.properties.event) {
+      popup_content += '<h1>' + feature.properties.event;
+      if (feature.properties.host) {
+        popup_content += '<br><small class="text-muted">' + feature.properties.host + '</small>';
       }
+      popup_content += '</h1>';
+    }
+    if (feature.properties.location || feature.properties.city || feature.properties.date_start) {
+      popup_content += '<ul class="list-unstyled">';
+      if (feature.properties.date_start) {
+        function dateConverter(featureDate) {
+          var iso = new Date(featureDate);
+          var m = iso.getUTCMonth();
+          var d = iso.getUTCDate();
+          var y = iso.getUTCFullYear();
+          var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+          var mlong = months[m];
+          var fulldate = mlong + " " + d + ", " + y;
+          return fulldate;
+        }
+        popup_content += '<li class="mb-2">' + dateConverter(feature.properties.date_start);
+        if (feature.properties.date_end) {
+          popup_content += ' - ' + dateConverter(feature.properties.date_end);
+        }
+        popup_content += '</li>';
+      }
+      if (feature.properties.location) {
+        popup_content += '<li>' + feature.properties.location + '</li>';
+      }
+      if (feature.properties.city) {
+        popup_content += '<li>' + feature.properties.city + '</li>';
+      }
+      popup_content += '</ul>';
+    }
+    feature.properties.event
+    var popup = L.popup({
+      maxWidth: 500
+    }).setContent(popup_content);
+    layer.bindPopup(popup);
   }
 
   var FeatureCollection = $.getJSON('/assets/geojson/01-06-2014.geojson');
 
   $.when(FeatureCollection).done(function() {
-    L.geoJSON(FeatureCollection.responseJSON, {
+    var markers = L.markerClusterGroup({
+      maxClusterRadius: 5
+    });
+
+    var geoJsonLayer = L.geoJSON(FeatureCollection.responseJSON, {
         onEachFeature: onEachFeature
-    }).addTo(map);
+    });
+    markers.addLayer(geoJsonLayer);
+    map.addLayer(markers);
   });
 
 </script>
