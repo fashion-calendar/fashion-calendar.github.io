@@ -26,10 +26,29 @@ permalink: pretty
 
 # menu settings
 menu:
-  - label: Book Demo
-    link: /book/
-  - label: Map Demo
+  - label: Issues
+    link: /issues/
+  - label: Map
     link: /map/
+  - label: Data
+    link: /data/
+  - label: About
+    link: /about/
+
+# collection settings
+collections:
+  issues:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "issues" # a collection in your site, in plural form
+    values:
+      layout: "issue"
+
+future: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

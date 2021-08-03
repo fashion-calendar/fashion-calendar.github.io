@@ -1,0 +1,49 @@
+<h1>Fashion Calendar Data</h1>
+<div class="row">
+  <div id="wrapper"></div>
+</div>
+
+
+<script>
+  $.getJSON("{{ site.baseurl }}/assets/geojson/fashion_calendar_data.json", function(geoJSON) {
+    new gridjs.Grid({
+      search: true,
+      pagination: true,
+      sort: true,
+      columns: [{
+          data: (row) => row.properties.title,
+          name: 'What\'s Going On'
+        },
+        {
+          data: (row) => row.properties.date_text,
+          name: 'When'
+        },
+        {
+          data: (row) => row.properties.host_text,
+          name: 'Given By'
+        },
+        {
+          data: (row) => row.properties.location_text,
+          name: 'Where'
+        },
+        {
+          data: (row) => row.properties.description,
+          name: 'Description'
+        },
+        {
+          data: (row) => row.properties.date_start,
+          name: 'Date Start'
+        },
+        {
+          data: (row) => row.properties.date_end,
+          name: 'Date End'
+        },
+        {
+          data: (row) => row.properties.appears_in,
+          name: 'Appears in'
+        }
+      ],
+      data: geoJSON["features"]
+    }).render(document.getElementById("wrapper"));
+  });
+</script>

@@ -1,0 +1,12 @@
+<div class="row row-cols-1 row-cols-md-4 g-4">
+  {% for issue in issues %}
+  <div class="col">
+    <a class="card text-dark text-decoration-none" href="{{issue.url}}">
+      <img src="https://archive.org/download/{{issue["IA ID"]}}/__ia_thumb.jpg" class="card-img-top" alt="{{issue.title}}">
+      <div class="card-body">
+        <h5 class="card-title">{{issue.title}}</h5>
+      </div>
+    </a>
+  </div>
+  {% endfor %}
+</div>

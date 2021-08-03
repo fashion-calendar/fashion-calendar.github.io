@@ -1,0 +1,2380 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+      "geometry": {
+        "coordinates": [-73.9866, 40.7306],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_002",
+        "title": "Eighth National Press Week",
+        "date_text": "Week of Jan. 6",
+        "date_start": "1947-01-06T12:00:00Z",
+        "date_end": "1947-01-10T12:00:00Z",
+        "host_text": "New York Dress Institute",
+        "host_controlled": ["New York Dress Institute"],
+        "location_text": "New York City",
+        "description": "Visiting fashion editors from leading newspapers of the United States and Canada will be in N. Y. during the week of January 6, for the Eighth National Press Week. They will see couture collections from New York Dress Institute designers, to be shown daily from 9:30 A.M. to 4:30 P.M. with two evening showings during the week. By invitation only. Publicity: Eleanor Lambert, PL. 5-8580.",
+        "associated_names": ["Lambert, Eleanor"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["couture"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.977395, 40.754515],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_002",
+        "title": "Preview of Teen Fashions",
+        "date_text": "Monday January 6 to January 17",
+        "date_start": "1947-01-06T09:30:00Z",
+        "date_end": "1947-01-17T17:30:00Z",
+        "host_text": "Calling All Girls Magazine",
+        "host_controlled": ["Calling All Girls Magazine"],
+        "location_text": "52 Vanderbilt Avenue",
+        "description": "A preview of all the merchandise that will be featured editorially and advertised in the February, March, April and May issues of Calling All Girls Magazine. Teen fashions from more than 50 leading resources, with merchandise assembled for quick \"birds eye\" viewing and complete listings distributed for buyers’ convenience. Contacts Nancy Pepper, MU. 54400.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Fashion shows"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.973943, 40.756804],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_002",
+        "title": "Luncheon for Out-of-Town Editors",
+        "date_text": "Monday January 6",
+        "date_start": "1947-01-06T12:30:00Z",
+        "date_end": "1947-01-06T12:30:00Z",
+        "host_text": "New York Dress Institute",
+        "host_controlled": ["New York Dress Institute"],
+        "location_text": "Waldorf-Astoria Astor Gallery",
+        "description": "Luncheon for visiting editors to mark official opening of Press Week. Press strictly by invitation. Publicity: Eleanor Lambert, PL. 5-8580.",
+        "associated_names": ["Lambert, Eleanor"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.9866, 40.7306],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_002",
+        "title": "THE PRESS SHOWING OF THE LINDELLE SPRING BAG COLLECTION,",
+        "date_text": "Jan. 6",
+        "date_start": "1947-01-06T16:30:00Z",
+        "date_end": "1947-01-06T16:30:00Z",
+        "host_text": null,
+        "host_controlled": null,
+        "location_text": null,
+        "description": "THE PRESS SHOWING OF THE LINDELLE SPRING BAG COLLECTION, ORIGINALLY SCHEDULED FOR MONDAY, JANUARY 6, AT 4:30 P.M., HAS BEEN CANCELLED.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Cancelled"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.98396, 40.74809],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_002",
+        "title": "Showing of New Lingerie Fashion",
+        "date_text": "Monday January 6",
+        "date_start": "1947-01-06T17:00:00Z",
+        "date_end": "1947-01-06T19:00:00Z",
+        "host_text": "Odette Barsa",
+        "host_controlled": null,
+        "location_text": "16 EAST 34TH STREET, FIFTEENTH FLOOR",
+        "description": "\"Spring Chromance\" -- presentation of Odette Barsa's new dramatic lingerie creations -- a new mood in at-home fashions. Showing at 5:30 P.M. For local and out-of-town press by invitation only. Publicity: Ann R. Silver\nAssociates, MU. 22-8633.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Cocktails", "Fashion shows", "Immigrants", "Lingerie"],
+        "tags": ["Middle-East and North Africa (MENA)", "Syrian"]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.965258, 40.676104],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_002",
+        "title": "Cocktail Party for Visiting Editors",
+        "date_text": "Monday January 6",
+        "date_start": "1947-01-06T18:30:00Z",
+        "date_end": "1947-01-06T20:30:00Z",
+        "host_text": "PRIMROSE HOUSE, INC.",
+        "host_controlled": null,
+        "location_text": "379 Park Avenue",
+        "description": "Primrose House will have a cocktail party to welcome the out-of-town editors. By invitation only. Publicity: Mary Brown, CI. 5-7434.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.98912, 40.751409],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_002",
+        "title": "“NAME -YOUR-TOWN\" TALKS FOR VISITING PRESS",
+        "date_text": "Week of Jan. 6",
+        "date_start": "1947-01-06T12:00:00Z",
+        "date_end": "1947-01-06T12:00:00Z",
+        "host_text": "HARRY JAY TREU, INC.",
+        "host_controlled": null,
+        "location_text": "147 WEST 35TH STREET",
+        "description": "“You name your town,\" and fur remodeling specialist Harry Jay Treu will show how he has handled the remodeling of furs from women who live in that town. Contact: LA. 4-6788,",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Fur"],
+        "tags": ["remodeling", "fur", "furrier"]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.990188, 40.754913],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_002",
+        "title": "Spring Collection of Half-Size Dresses",
+        "date_text": "Beginning Monday January 6",
+        "date_start": "1947-01-06T12:00:00Z",
+        "date_end": "1947-01-06T12:00:00Z",
+        "host_text": "PATRICIA ROBERT CO.",
+        "host_controlled": null,
+        "location_text": "244 WEST 39TH STREET",
+        "description": "Introducing a new collection of women's half-size street dresses, fashioned for the shorter woman. Contact: Walter Ginsburg, LO. 5-0358.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.9866, 40.7306],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_003",
+        "title": "Shoe Guild Warm Weather Openings",
+        "date_text": "Week of Jan. 6",
+        "date_start": "1947-01-06T12:00:00Z",
+        "date_end": "1947-01-13T12:00:00Z",
+        "host_text": "The Guild of Better Shoe Manufacturers",
+        "host_controlled": null,
+        "location_text": "Showrooms",
+        "description": "Shoes for summertime wear, featuring styles influenced by the latest trends in apparel. Delivery will be for March, April and May. In addition to the showing and sale of footwear, this opening will mark the\nplanning of distribution policies between manufacturers and retailers. Member firms of the Guild of Better Shoe Manufacturers are: Cangemi, Ince; Thomas Cort Ltd; Delman, Inc; Fox Shoe Mfg. Corp; Jerro Bros; Mackey-Starr, Inc; Marino; I. Miller and Sons, Inc; Newton Elkin Shoe Co. (Pandora); Palter Deliso, Inc.; Schwartz and Benjamin, Inc. (Customcraft); Setroy, Inc. (Seymour Troy Originals); Van Arden, Inc., M. Wolf Sons, Inc. (Lupine); Morris Wolock Co.; Zuckerman and Fox, Inc Contact: Kate\nGoldstein Kamen, Exec Secy, 875 Fifth Avenue, RE. 4—4888.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Shoes"],
+        "tags": ["shoes", "trade show"]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.923503, 40.63492705],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_003",
+        "title": "Fashion Show for Visiting Editors",
+        "date_text": "Tuesday Jan.7",
+        "date_start": "1947-01-07T08:30:00Z",
+        "date_end": "1947-01-07T10:30:00Z",
+        "host_text": "MILDRED O'QUINN",
+        "host_controlled": null,
+        "location_text": "ST. REGIS HOTEL",
+        "description": "Mildred O'Quinn will present her Spring and Summer collection to the out-of-town editors. Showing will begin promptly at 9:00 A.M. Attendance strictly by invitation. Publicity: Nona James, VO. 5-3440.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Fashion shows"],
+        "tags": ["breakfast"]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.973943, 40.756804],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_003",
+        "title": "SHOE-VUES OF 1947\"",
+        "date_text": "Tuesday Jan.7",
+        "date_start": "1947-01-07T08:30:00Z",
+        "date_end": "1947-01-07T08:30:00Z",
+        "host_text": "The Guild of Better Shoe Manufacturers",
+        "host_controlled": null,
+        "location_text": "Waldorf-Astoria Hotel",
+        "description": "World Premiere Performance and dramatization of the future of better shoes, a vital and realistic approach to the shoe business of tomorrow. “Guild\nShoe-Vues of 1947\", featuring stars of stage, screen and radio, prepared\nby the top writing talent of America. By invitation only. Public relations handled by Kate Goldstein Kamen, 875 Fifth Avenue, RE. 4-48886.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.988491, 40.752402],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_003",
+        "title": "\"The American Idea In Fashion\"",
+        "date_text": "Tuesday Jan. 7 to Jan. 10",
+        "date_start": "1947-01-07T08:30:00Z",
+        "date_end": "1947-01-10T12:00:00Z",
+        "host_text": "LOMBARDY, INC",
+        "host_controlled": null,
+        "location_text": "134 WEST 37TH STREET",
+        "description": "Presentation at 10:00 A.M. and 2:30 P.M. daily, with a press showing on Thurs., Jan 9, at 2:30 PM. By reservation. Contact: Ruth Schwartz, WI-77200.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.986089, 40.757554],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_003",
+        "title": "SEVENTH BIRTHDAY PARTY: DUBARRY SUCCESS COURSE",
+        "date_text": "Tuesday Jan.7",
+        "date_start": "1947-01-07T12:00:00Z",
+        "date_end": "1947-01-07T14:00:00Z",
+        "host_text": "RICHARD HUDNUT",
+        "host_controlled": null,
+        "location_text": "Hotel Astor",
+        "description": "Ann Delafield, director of the DuBarry Success Course, will invite local and out-of-town press to the Success Course's 7th Anniversary Birthday Luncheon. By invitation only. Publicity: Dora Miller, LO. 3-4285.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": ["courses"]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-74.00763875, 40.713008625],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_003",
+        "title": "Presentation of Awards by Mayor O'Dwyer",
+        "date_text": "Tuesday Jan.7",
+        "date_start": "1947-01-07T13:00:00Z",
+        "date_end": "1947-01-07T14:00:00Z",
+        "host_text": "Fashion Trades",
+        "host_controlled": null,
+        "location_text": "City Hall",
+        "description": "Awards will be presented to the twenty-five statesmen of industry by Mayor William O'Dwyer at a special ceremony at City Hall. Press invited. Contacts Shirley D. Spaulding, Fashion Director, EL. 5-7430.",
+        "associated_names": ["O'Dwyer, William "],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Award presentations"],
+        "tags": ["awards", "municipal", "New York Fashion"]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.9866, 40.7306],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_003",
+        "title": "THE LUCIENNE HARANG PRESS SHOWING OF NEW GLOVES AND BLOUSES FOR SPRING,",
+        "date_text": "Tuesday Jan.7",
+        "date_start": "1947-01-07T15:30:00Z",
+        "date_end": "1947-01-07T15:30:00Z",
+        "host_text": null,
+        "host_controlled": null,
+        "location_text": null,
+        "description": "THE LUCIENNE HARANG PRESS SHOWING OF NEW GLOVES AND BLOUSES FOR SPRING, ORIGINALLY SCHEDULED FOR TUESDAY, JAN. 7, AT 3:30 P.M., HAS BEEN POST+ PONED. (NEW DATE WILL BE ANNOUNCED LATER.)",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Postponed"],
+        "tags": ["postponed"]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.973568, 40.762973],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_003",
+        "title": "Showing of Spring and Summer Collection",
+        "date_text": "Tuesday Jan.7",
+        "date_start": "1947-01-07T16:00:00Z",
+        "date_end": "1947-01-07T17:30:00Z",
+        "host_text": "LADDIE NORTHRIDGE",
+        "host_controlled": null,
+        "location_text": "1 West 57th Street",
+        "description": "Laddie Northridge's forecast of '47 Spring and Summer hats at a showing for the N.Y. fashion press. By invitation only. Publicity: Elizabeth Maher Associates, El. 5-4248.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Hats", "Millinery", "Women's Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.970764, 40.76074],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_004",
+        "title": "Press Preview: Spring Millinery",
+        "date_text": "Tuesday Jan.7",
+        "date_start": "1947-01-07T16:00:00Z",
+        "date_end": "1947-01-07T17:30:00Z",
+        "host_text": "Lilly Dache",
+        "host_controlled": ["Daché, Lilly, 1898-1989"],
+        "location_text": "78 EAST 56TH STREET",
+        "description": "Presentation of Lilly Dache's new millinery collection to the press. Strictly by invitation. Publicity: Eleanor Lambert, PL. 5-8580.",
+        "associated_names": ["Daché, Lilly, 1898-1989"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Hats", "Millinery", "Women's Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.984337, 40.747452],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_004",
+        "title": "Showing of New Lingerie Fashions",
+        "date_text": "Tuesday Jan.7",
+        "date_start": "1947-01-07T16:00:00Z",
+        "date_end": "1947-01-07T19:00:00Z",
+        "host_text": "Odette Barsa",
+        "host_controlled": null,
+        "location_text": "16 EAST 34TH STREET",
+        "description": "Showing at 4:30 P.M. for buyers, merchandise managers, and fashion coordinators of “Spring Chromance\" -- Odette Barsa’s new dramatic lingerie creations -- a new mood in at-home fashions. By invitation only. Publicity: Ann R. Silver Associates, MU. 2-8633.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Fashion shows", "Lingerie", "Immigrants"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.9862, 40.74902],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_004",
+        "title": "Presentation of \"Fashions For Selling\"",
+        "date_text": "Tuesday Jan.7",
+        "date_start": "1947-01-07T16:45:00Z",
+        "date_end": "1947-01-07T19:00:00Z",
+        "host_text": "MAYFLOWER DRESS CO.",
+        "host_controlled": null,
+        "location_text": "Hotel McAlpin",
+        "description": "Cocktail party and showing of small, high-fashioned group of daytime frocks featured under the Mayflower and Amerisport labels for misses; and Nan Scott for Juniors. For press, merchandise executives and buyers, by invitation only. Publicity: Bea Baris, LO. 3-6759.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Fashion shows"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.997401, 40.658002],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_004",
+        "title": "Junior Fashion Show for Visiting Editors",
+        "date_text": "Tuesday Jan.7",
+        "date_start": "1947-01-07T17:00:00Z",
+        "date_end": "1947-01-07T19:00:00Z",
+        "host_text": "TILLY SCHANZER",
+        "host_controlled": null,
+        "location_text": "Hotel Plaza",
+        "description": "Showing of \"Junior Mix and Match\" fashions by Tilly Schanzer to be presented to out-of-town editors during cocktails. Attendance by invitation only. Publicity: Dora Miller, LO. 3-4285.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Fashion shows"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.91606505, 40.6153736],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_004",
+        "title": "Party to Celebrate Seventieth Anniversary",
+        "date_text": "Tuesday Jan.7",
+        "date_start": "1947-01-07T17:30:00Z",
+        "date_end": "1947-01-07T19:30:00Z",
+        "host_text": "LAMBERT BROTHERS, INC.",
+        "host_controlled": null,
+        "location_text": "LEXINGTON & 60TH ST.",
+        "description": "Lambert Brothers’ Jewelry will celebrate their 70th anniversary with a special showing of diamonds and other fine jewelry. Attendance by invitation only. Publicity: Rosemary Sheehan, CI. 7-8060.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Jewelry"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.97635, 40.75203],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_004",
+        "title": "Semi-Annual Press Breakfast",
+        "date_text": "Wednesday January 8",
+        "date_start": "1947-01-08T08:30:00Z",
+        "date_end": "1947-01-08T08:30:00Z",
+        "host_text": "Millinery Fashion Bureau",
+        "host_controlled": null,
+        "location_text": "HOTEL COMMODORE",
+        "description": "Latest millinery creations will be presented to the out-of-town fashion editors. Hats by 17 uptown designers: ANITA ANDRA, BRAAGAARD, HATTIE\nCARNEGIE, LILLY DACHE, EMME, PEG FISCHER, WALTER FLORELL, MARY GOODFELLOW, MAGO HAYES, JOHN-FREDERICS, LENESTA, LADDIE NORTHRIDGE, MME. PAULINE, FLORENCE REICHMAN, MME. REINE, SUZANNE-REMY, SALLY VICTOR.\nMillinery Creators Guild: BERNICE CHARLES, GERMAINE MONTABERT, HARRYSON HATS, G. HOWARD HODGE, JEANNE TETE, EDGAR J. LORIE, MILGRIM HATS. (Jewelry by Castlecliff., Publicity: Dorothy Lansing, PL. 8-3145). Attendance strictly by invitation. Publicity Mary Kelley, MU. 2-2603.",
+        "associated_names": ["Daché, Lilly, 1898-1989", "Carnegie, Hattie", "Florell, Walter, 1911-1986", "Victor, Sally, 1905-1977"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Hats", "Millinery", "Women's Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.974743, 40.75976],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_004",
+        "title": "Press Preview Spring and Summer Millinery",
+        "date_text": "Wednesday January 8",
+        "date_start": "1947-01-08T10:30:00Z",
+        "date_end": "1947-01-08T12:00:00Z",
+        "host_text": "Sally Victor",
+        "host_controlled": ["Victor, Sally, 1905-1977"],
+        "location_text": "18 EAST 53RD STREET",
+        "description": "Sally Victor will present a showing of her new millinery for Spring and Summer to the N. Y. fashion press. (Showing for out-of-town press on Saturday, Jan. 11). Attendance by invitation only. Contact: Mildred Josephs, Pl 3-7450.",
+        "associated_names": ["Victor, Sally, 1905-1977"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Hats", "Millinery", "Women's Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.988434, 40.754208],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_004",
+        "title": "Showing Spring Line to Visiting Press",
+        "date_text": "Wednesday January 8",
+        "date_start": "1947-01-08T12:00:00Z",
+        "date_end": "1947-01-08T13:00:00Z",
+        "host_text": "VARDEN DRESS CO., INC.",
+        "host_controlled": null,
+        "location_text": "530 SEVENTH AVENUE",
+        "description": "Luncheon showing of Spring line of Varden Petites and Varden Casuals to be presented to the out-of-town fashion press. Attendance by invitation only Publicity: Gladys Steiner, Lester Harrison, Inc. MU. 3-1267.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.978431, 40.753686],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_005",
+        "title": "Luncheon Meeting: \"Report on Germany\"",
+        "date_text": "Wednesday January 8",
+        "date_start": "1947-01-08T12:15:00Z",
+        "date_end": "1947-01-08T13:15:00Z",
+        "host_text": "THE FASHION GROUP, INCe",
+        "host_controlled": null,
+        "location_text": "Hotel Biltmore",
+        "description": "Members' monthly luncheon meeting with a \"Report on Germany” by Kathleen\nMoLaughlin, member of the Berlin Bureau of \"The New York Times\" and just\nreturned from Germany. She will be introduced by Mrs. Franklin Delano\nRoosevelt. Eleanor Pollock, Chairman, Program Committee. Price, including\ntax and tip: $3.10 for members; $3.50 for guests. Contacts: The Fashion\nGroup, Inc., CI. 7-3940.",
+        "associated_names": ["Roosevelt, Eleanor, 1884-1962"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": ["The Fashion Group Inc."]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.975234, 40.760166],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_005",
+        "title": "Press Preview Spring and Summer Millinery",
+        "date_text": "Wednesday January 8",
+        "date_start": "1947-01-08T16:00:00Z",
+        "date_end": "1947-01-08T17:00:00Z",
+        "host_text": "MADAME PAULINE",
+        "host_controlled": null,
+        "location_text": "6 EAST 53RD STREET",
+        "description": "\"Tomorrow, for an Indefinite Stay\" -- a collection of Mme. Pauline's new\nSpring and Summer millinery. Showing promptly at 4:00 P.M. Attendance\nby invitation only. Publicity: Mary Alice Rice, CI. 6-1790.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Hats", "Millinery", "Women's Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.971998, 40.765363],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_005",
+        "title": "\"Gems of Fashion\" or \"Raffles' Return\"",
+        "date_text": "Wednesday January 8",
+        "date_start": "1947-01-08T16:00:00Z",
+        "date_end": "1947-01-08T18:00:00Z",
+        "host_text": "Kramer Jewelry Co.",
+        "host_controlled": null,
+        "location_text": "Hotel Pierre",
+        "description": "Kramer Jewelry Co. presents a unique fashion showing of rhinestone jewelry. Attendance by invitation only. Publicity: Billie Gould, Inc., LA 4-8773. \"Crime Does Not Pay\"",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Jewelry", "Fashion shows"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.9852, 40.74861],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_005",
+        "title": "Announce Winners of Teen ContestDesign",
+        "date_text": "Wednesday January 8",
+        "date_start": "1947-01-08T16:30:00Z",
+        "date_end": "1947-01-08T18:00:00Z",
+        "host_text": "MISS AMERICA MAGAZINE",
+        "host_controlled": null,
+        "location_text": "Empire State Building",
+        "description": "Miss America Magazine and Soap 'n' Water Fabrics will announce the winners\nof their teen fashion design contest. For buyers and press, strictly by invitation. Contacts Aileen Fogarty, BR 9-5890.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Textile fabrics. Textile industry"],
+        "tags": ["teen", "fashion competition"]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.973568, 40.762973],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_005",
+        "title": "Millinery Showing for Visiting Editors",
+        "date_text": "Wednesday January 8",
+        "date_start": "1947-01-08T17:00:00Z",
+        "date_end": "1947-01-08T18:00:00Z",
+        "host_text": "LADDIE NORTHRIDGE",
+        "host_controlled": null,
+        "location_text": "1 WEST 57TH STREET",
+        "description": "Laddie Northridge's forecast of 1947 Spring and Summer hats at a showing for the out-of-town press. By invitation only. Publicity: Elizabeth Maher Associates, EL. 5-4248.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Hats", "Millinery"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.974649, 40.761885],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_005",
+        "title": "Cocktail Party for Visiting Editors",
+        "date_text": "Wednesday January 8",
+        "date_start": "1947-01-08T17:00:00Z",
+        "date_end": "1947-01-08T19:00:00Z",
+        "host_text": "PRINCE MATCHABELLI",
+        "host_controlled": ["Prince Matchabelli, Inc."],
+        "location_text": "711 FIFTH AVENUE",
+        "description": "The out-of-town and local press will be invited to a cocktail party at Prince Matchabelli's new Crown Room. Attendance by invitation only. Publicity: Leonore Buehler, PL. 3-7010.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Perfume"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.970764, 40.76074],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_005",
+        "title": "Millinery Showing for Visiting Editors",
+        "date_text": "Wednesday January 8",
+        "date_start": "1947-01-08T17:30:00Z",
+        "date_end": "1947-01-08T19:00:00Z",
+        "host_text": "Lilly Dache",
+        "host_controlled": ["Daché, Lilly, 1898-1989"],
+        "location_text": "78 EAST 56TH STREET",
+        "description": "The out-of-town editors have been invited to a millinery presentation by Lilly Dache. Attendance strictly by invitation. Publicity: Eleanor Lambert, PL 5-8580.",
+        "associated_names": ["Daché, Lilly, 1898-1989"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Hats", "Millinery", "Women's Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.973943, 40.756804],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_005",
+        "title": "Thirteenth Annual Fashion Presentation",
+        "date_text": "Wednesday January 8",
+        "date_start": "1947-01-08T19:30:00Z",
+        "date_end": "1947-01-08T20:00:00Z",
+        "host_text": "National Association of House Dress Manufacturers",
+        "host_controlled": null,
+        "location_text": "Waldorf-Astoria",
+        "description": "Annual fashion show marking the first efforts in the postwar period by the National Association of House Dress Manufacturers, emphasizing \"Famous Labels in Daytime Fashions.” Designed by A. A. Ostrander. Directed and written by Grace Houston. By invitation only. Contact: Rudi Lazarus,\nLA 4-5550.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.973943, 40.756804],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_006",
+        "title": "Breakfast Showing for Visiting Editors",
+        "date_text": "Thursday January 9",
+        "date_start": "1947-01-09T08:15:00Z",
+        "date_end": "1947-01-09T09:15:00Z",
+        "host_text": "Six Leading Accessory Designers",
+        "host_controlled": null,
+        "location_text": "Waldorf-Astoria",
+        "description": "Semi-annual presentation of accessories -- Aris Gloves, Coro Jewelry, Criterion Belts, Glentex Scarfs, Glenwear Blouses, and Bienen-Davis Bags. Showing promptly at 9:00 A.M. For local and out-of-town fashion press, strictly by invitation. Publicity: Ann R. Silver Associates, MU. 2-8633.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Dress accessories"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.97846, 40.758696],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_006",
+        "title": "‘DIAMOND DAY\"",
+        "date_text": "Thursday January 9",
+        "date_start": "1947-01-09T09:00:00Z",
+        "date_end": "1947-01-09T18:00:00Z",
+        "host_text": "N.W. AYER & SON, INC.",
+        "host_controlled": null,
+        "location_text": "RCA BUILDING",
+        "description": "In response to many requests to see the process of diamond cutting, an all-day demonstration has been arranged in the Ayer offices with the cooperation of Lazare Kaplan, cutter of the Jonker diamond. Special features at 9:30 A.M., 12:00 Noon, and 5;00 P.M. Big exhibit of rough\ndiamonds, colored diamonds, fancy cuts. Also newest diamond jewelry by\nFrank S. Hartley. Invitations have been issued.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Jewelry", "Diamonds"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.9866, 40.7306],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_006",
+        "title": "Press Showing of Spring Millinery",
+        "date_text": "Thursday January 9",
+        "date_start": "1947-01-09T11:00:00Z",
+        "date_end": "1947-01-09T12:00:00Z",
+        "host_text": "Walter Florell",
+        "host_controlled": ["Florell, Walter, 1911-1986"],
+        "location_text": null,
+        "description": "Presentation of Walter Florell's new Spring and Summer millinery at a showing for the press. (Buffet luncheon will be served.) Attendance by\ninvitation only. Contact: Burton M. Pell, PL. 50895.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Hats", "Millinery", "Women's Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.923503, 40.63492705],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_006",
+        "title": "Glove Variety Show for Press",
+        "date_text": "Thursday January 9",
+        "date_start": "1947-01-09T15:30:00Z",
+        "date_end": "1947-01-09T17:00:00Z",
+        "host_text": "MARCEL WAGNER GLOVES",
+        "host_controlled": null,
+        "location_text": "ST. REGIS HOTEL",
+        "description": "Press preview of new colors, fabrics, and novelties in gloves by Marcel Wagner, from the most exotic long styles to the shortie for sportswear. Showing promptly at 4300 P.M. Attendance by invitation only. Publicity: Rosemary Sheehan, Cl. 7-8060.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Gloves"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.976515, 40.751044],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_006",
+        "title": "\"Fantasy in Fashion\" Movie Preview",
+        "date_text": "Thursday January 9",
+        "date_start": "1947-01-09T19:00:00Z",
+        "date_end": "1947-01-09T21:00:00Z",
+        "host_text": "SAM FRIEDLANDER",
+        "host_controlled": null,
+        "location_text": "122 EAST 42ND ST.",
+        "description": "Preview of Sam Friedlander's unusual motion picture, featuring 24 Moyen originals, which will be shown exclusively in 150 cities from coast to coast beginning with the first week in February. Showing at Chanin Auditorium (50th Floor) at 5:00 P.M. sharp. For movie and radio critics,\nand store merchandisers. Attendance strictly by invitation. Contacts\nHarriet Rhoday, PE. 6-2663.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": ["movie preview"]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.97736, 40.75557],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_006",
+        "title": "Press Preview: New Lingerie for 1947",
+        "date_text": "Thursday January 9",
+        "date_start": "1947-01-09T16:00:00Z",
+        "date_end": "1947-01-09T18:00:00Z",
+        "host_text": "MADAME TEWI",
+        "host_controlled": ["Tewi, Thea"],
+        "location_text": "RITZ CARLTON HOTEL",
+        "description": "Thea Tewi will invite the local and out-of-town fashion press and buyers to a showing of her \"First Collection for 1947\"--new designs in intimate fashions. By invitation only. Contact: Alice 0. Steindler, PL. 3-0831.",
+        "associated_names": ["Tewi, Thea"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Lingerie", "Immigrants", "Jewish fashion designers"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.974223, 40.759739],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_006",
+        "title": "Millinery Showing for Visiting Editors",
+        "date_text": "Thursday January 9",
+        "date_start": "1947-01-09T17:30:00Z",
+        "date_end": "1947-01-09T18:00:00Z",
+        "host_text": "Walter Florell",
+        "host_controlled": ["Florell, Walter, 1911-1986"],
+        "location_text": "29 EAST 53RD STREET",
+        "description": "Walter Florell will have a cocktail party for out-of-town fashion editors to present his new millinery collection. Attendance by invitation only. Contact: Burton iM. Pell, PL. 50895.",
+        "associated_names": ["Florell, Walter, 1911-1986"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Millinery", "Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.97635, 40.75203],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_006",
+        "title": "New Accessories at Press Breakfast",
+        "date_text": "Friday January 10",
+        "date_start": "1947-01-10T10:00:00Z",
+        "date_end": "1947-01-10T11:00:00Z",
+        "host_text": "Neckwear and Scarf Association",
+        "host_controlled": null,
+        "location_text": "HOTEL COMMODORE",
+        "description": "New accessories for Spring and Summer will be shown to the out-of-town fashion press during breakfast. Commentators Mary Margaret McBride. Attendance by invitation only. Publicity: Dora Miller, LO. 34285.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Dress accessories", "Neckwear"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.97846, 40.758696],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_007",
+        "title": "Cocktail Buffet for Visiting Press",
+        "date_text": "Friday January 10",
+        "date_start": "1947-01-10T18:00:00Z",
+        "date_end": "1947-01-10T20:00:00Z",
+        "host_text": "Dan River Mills",
+        "host_controlled": ["Dan River Mills Inc."],
+        "location_text": "RCA Building",
+        "description": "Dan River will invite the out-of-town and local press to a cocktail buffet in the North Lounge  atop the RCA Building at 30 Rockefeller Plaza.\nAttendance by invitation only. Publicity: Christine Ecker, John A. Cairns\n& Co., OR. 4-5600,.",
+        "associated_names": ["Dan River Mills Inc."],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.974743, 40.75976],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_007",
+        "title": "Millinery Showing for Visiting Editors",
+        "date_text": "Saturday January 11",
+        "date_start": "1947-01-11T09:30:00Z",
+        "date_end": "1947-01-11T10:30:00Z",
+        "host_text": "Sally Victor",
+        "host_controlled": ["Victor, Sally, 1905-1977"],
+        "location_text": "18 EAST 53RD ST.",
+        "description": "Sally Victor will have her semi-annual millinery fashion show and breakfast for the out-of-town press. Attendance strictly by invitation.\nContact: Mildred Josephs, PL. 3-7450.",
+        "associated_names": ["Victor, Sally, 1905-1977"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Millinery", "Hats", "Women's Hats", "Fashion shows"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.973943, 40.756804],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_007",
+        "title": "Picnic Supper for Visiting Editors",
+        "date_text": "Saturday January 11",
+        "date_start": "1947-01-11T17:30:00Z",
+        "date_end": "1947-01-11T18:30:00Z",
+        "host_text": "Dana Perfumes",
+        "host_controlled": null,
+        "location_text": "Waldorf-Astoria",
+        "description": "Dana Perfumes will invite the out-of-town editors to a picnic supper.\nAttendance strictly by invitation. Publicity: Ruth Bolway, HA. 6-6688.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Perfume"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.99147, 40.74967],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_007",
+        "title": "Thirty-Sixth Annual Convention",
+        "date_text": "Monday January 13 to January 17",
+        "date_start": "1947-01-13T09:00:00Z",
+        "date_end": "1947-01-17T18:30:00Z",
+        "host_text": "National Retail Dry Goods Association",
+        "host_controlled": ["National Retail Dry Goods Association (U.S.). Convention"],
+        "location_text": "HOTEL PENNSYLVANIA",
+        "description": "Theme, “Dynamic Distribution in a Free Economy\". Contacts Charles E. Harnery CH. 4-8780.",
+        "associated_names": ["National Retail Dry Goods Association (U.S.). Convention", "National Retail Dry Goods Association (U.S.)"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.9866, 40.7306],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_007",
+        "title": "THE EMME MILLINERY FASHION SHOW,",
+        "date_text": "Monday January 13",
+        "date_start": "1947-01-13T09:00:00Z",
+        "date_end": "1947-01-13T09:00:00Z",
+        "host_text": "Emme",
+        "host_controlled": null,
+        "location_text": null,
+        "description": "THE EMME MILLINERY FASHION SHOW, ORIGINALLY SCHEDULED FOR MONDAY,JAN. 13, HAS BEEN POSTPONED TO THURSDAY, JAN. 16, AT 4:00 P.M.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": ["postponed"]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.973943, 40.756804],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_007",
+        "title": "Spring Millinery Breakfast Clinic",
+        "date_text": "Tuesday January 14",
+        "date_start": "1947-01-14T09:30:00Z",
+        "date_end": "1947-01-14T10:30:00Z",
+        "host_text": "Millinery Merchandising Executives Association",
+        "host_controlled": ["Millinery Merchandising Executives Association"],
+        "location_text": "Waldorf-Astoria",
+        "description": "Annual Spring clinic of the Millinery Merchandising Executives’ Association, with experts in the fashion, merchandising and business worlds discussing trends, problems and developments. Virginia Pope, fashion editor, N. Y. Times, will act as director of the Clinic. Attendance by\ninvitation only. Publicity: Ruth Weintraub, PL. 3-2116.",
+        "associated_names": ["Millinery Merchandising Executives Association"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Millinery", "Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.97795, 40.76606],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_007",
+        "title": "Spring Millinery Showing for Press",
+        "date_text": "Tuesday January 14",
+        "date_start": "1947-01-14T16:30:00Z",
+        "date_end": "1947-01-14T16:30:00Z",
+        "host_text": "Mary Goodfellow",
+        "host_controlled": null,
+        "location_text": "Hampshire House Cottage",
+        "description": "Mary Goodfellow will present her new Spring and early Summer millinery to\nthe press at a cocktail party. Attendance by invitation only. Publicity: Mildred Kaldor, BR. 9-9399.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Millinery", "Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.981047, 40.753857],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_007",
+        "title": "Glass Pants Party: \"Fantasies of Pantasies\"",
+        "date_text": "Tuesday January 14",
+        "date_start": "1947-01-14T16:00:00Z",
+        "date_end": "1947-01-14T19:00:00Z",
+        "host_text": "JULIUS KAYSER & CO.",
+        "host_controlled": null,
+        "location_text": "500 FIFTH AVENUE",
+        "description": "On the occasion of the opening of their new glass showrooms, Julius Kayser & Co. will present an “out of this world\" entertainment and cocktail party for the press, Attendance strictly by invitation. Publicity: Ruth LeBron, WI. 2-8200.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Glass"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.972839, 40.763554],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_007",
+        "title": "Exhibition of Spring Styles for Men",
+        "date_text": "Tuesday January 14 and 15",
+        "date_start": "1947-01-14T12:00:00Z",
+        "date_end": "1947-01-15T23:30:00Z",
+        "host_text": "Men's Fashion Guild of New York",
+        "host_controlled": null,
+        "location_text": "SAVOY-PLAZA HOTEL",
+        "description": "Press showing on Tuesday, Jan. 14, from 10:00 A.M. to 12:30 P.M. Continuous showing from 1:00 P.M. to 9:00 P.M. on Tuesday and Wednesday.\nTrade and press are cordially invited. Publicity: Lee Babin, The Zlowe\nCo. VA. 6-4885,.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Men's clothing"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.986089, 40.757554],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_008",
+        "title": "Spring Hat Fashion Show and Dinner",
+        "date_text": "Tuesday January 14",
+        "date_start": "1947-01-14T19:00:00Z",
+        "date_end": "1947-01-14T22:00:00Z",
+        "host_text": "Millinery Stability Committee; Millinery Fashion Bureau",
+        "host_controlled": null,
+        "location_text": "Hotel Astor",
+        "description": "Semi-annual Spring millinery fashion show and dinner. The following milliners will present new trends in hats: UPTOWN MILLINERS: \nAnite Andra; Braagaard; Hattie Carnegie; Bernice Charles; Lilly Dache\ndelle Donne; Emme; Peg Fischer; Walter Florell; Germaine Montabert; Gladys & Belle; Mary Goodfellow; Harryson Hats; Mago Hayes; G. Howard Hodge; Jeanne Tete; John-Frederics; Lenesta ;Miriam Lewis; Edgar J. Lorie; Lydia; Milgrim Hats;\nLaddie Northridge; Mme. Pauline; \nFlorence Reichman; Mme. Reine; Sally Victor; Vogue Hats; POPULAR PRICED\nAlba Hat Co.; Alfreda; Amrose Hat, Inc.; Berkley Hats; Brandt Millinery Co.; Joe Cohn Hats; Croyden Hats; Abe Del Monte Co.; Elizabeth Hat Co.; Flanzig Bros.; Oscar Friedman; Harry Furst; B. J. Goldenberg; Goldstone-Weber; Greenstein & Flaum; Harry Hikand; Lesser-Lasoff, Inc.; Luxor Hat Co.; Walter K. Marks; Millinery Fashion\nCreators; Frances & Walter Nelkin; Parfait Hats; David Rothman; Morris Schachter & Co.; Schoen Hats; Schwartz & Rosenfeld; William Silverman; Woodmere Hat Co.; JUNIOR MAKERS\nBertlyn; Betmar's; John-Frederics Jr.; Greenberg-Fisch; Ann Koppelman; Madcaps; Park Avenue Jrs.; Playtoppers; Radcliffe Fashions; Vic-Debs.\nCommentators Mrs. Maude G. Moody, millinery fashion editor, Women's Wear Daily. Tickets: $16.50 (including dinner); show only, $8.50 (mezzanine).\nFor tickets, contact Millinery Stabilization Commission, 1450 Broadway,\nCH. 4-6547. Press by invitation.  Publicity Mary Kelley, MU. 2-2603.",
+        "associated_names": ["Victor, Sally, 1905-1977", "Daché, Lilly, 1898-1989", "Florell, Walter, 1911-1986", "Carnegie, Hattie", "Montabert, Germaine"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Millinery", "Hats", "Fashion shows"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.971998, 40.765363],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_008",
+        "title": "\"Young Things\" Showings of New Cottons",
+        "date_text": "Wednesday January 15",
+        "date_start": "1947-01-15T09:30:00Z",
+        "date_end": "1947-01-15T18:30:00Z",
+        "host_text": "Ellen Hewitt of Delphi",
+        "host_controlled": null,
+        "location_text": "Hotel Pierre",
+        "description": "Ellen Hewitt of Delphi will present her \"Young Things\" line of new teenage cottons to the press and trade during breakfast. Attendance by\ninvitation only. Hotel Pierre Publicity Florence Lanthier, EL. 5-3644.\nEllen Hewitt Publicity: Mildred Kaldor, BR. 9-9399.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Fashion shows"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.973943, 40.756804],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_008",
+        "title": "Showing of Original Gown By Edith Head",
+        "date_text": "Wednesday January 15",
+        "date_start": "1947-01-15T10:00:00Z",
+        "date_end": "1947-01-15T11:00:00Z",
+        "host_text": "Paramount Pictures",
+        "host_controlled": ["Paramount Pictures, Inc."],
+        "location_text": "Waldorf-Astoria",
+        "description": "Preview of fashions worn by Loretta Young and Virginia Field in the forthcoming Paramount picture, The Perfect Marriage, produced by Hal Wallis,\nand featuring ten glamorous nightgowns in addition to other exciting creations designed by Edith Head. Also, \"The Business Girl Silhouette\",\nwith clothes worn by Joan Caulfield in Welcome Stranger and Dear Ruth;\nand by Lizabeth Scott in Desert Fury; the \"Latin American Silhouette\" in\nfashions created for Dorothy Lamour in My Favorite Brunette; \"The Peg Top\nPeplum, 1915\" as illustrated by Betty Hutton in Perils of Pauline; \"The Hour Glass, 1900\" by Joan Fontaine in Emperor Waltz. Hats by Lilly Dache. Commentators Edith Head. Public by reservation. Press by\ninvitation. For reservations, contact: \"Frank\", headwaiter, EL. 5-3000.\nParamount Publicity: Aileen St. John Brenon, BR. 9=8700. Waldorf 1a\nPublicity Office: Annette Goodrich, EL. 5-3000.",
+        "associated_names": ["Head, Edith", "Young, Loretta, 1913-2000", "Caulfield, Joan, 1922-1991", "Daché, Lilly, 1898-1989"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.983848, 40.749413],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_009",
+        "title": "Open House to Introduce New Package",
+        "date_text": "Wednesday January 15",
+        "date_start": "1947-01-15T16:00:00Z",
+        "date_end": "1947-01-15T16:00:00Z",
+        "host_text": "Aberle Inc.",
+        "host_controlled": null,
+        "location_text": "385 FIFTH AVENUE",
+        "description": "Cocktail party at Aberle's redecorated offices with introduction of new hosiery package. Attendance by invitation only. Publicity: Mello M. Meldram, AS. 4-0377.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["hosiery"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.975497, 40.762728],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_009",
+        "title": "New Sophie Ready-to-Wear Millinery",
+        "date_text": "Wednesday January 15",
+        "date_start": "1947-01-15T16:30:00Z",
+        "date_end": "1947-01-15T16:30:00Z",
+        "host_text": "Saks Fifth Avenue",
+        "host_controlled": null,
+        "location_text": "27 WEST 56TH STREET",
+        "description": "Press preview and cocktail party at the new Saks 5th Avenue ready-to-wear millinery ‘studio at 27 West 56th St., to introduce their new collection of exclusive Sophie millinery. Attendance by invitation only. Publicity Helen Kauper, Pl 3-4000.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Department stores", "Millinery"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.971044, 40.76086],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_009",
+        "title": "Press Preview of Spring Millinery",
+        "date_text": "Thursday January 16",
+        "date_start": "1947-01-16T16:00:00Z",
+        "date_end": "1947-01-16T19:00:00Z",
+        "host_text": "Emme",
+        "host_controlled": null,
+        "location_text": "21 EAST 56TH STREET",
+        "description": "Showing of Emme's new. Spring millinery to the press during cocktails. Attendance by invitation only Publicity: Mildred Kaldor, BR. 9-9399",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Millinery", "Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.97736, 40.75557],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_009",
+        "title": "New Classics and Maternity Fashions",
+        "date_text": "Thursday January 16",
+        "date_start": "1947-01-16T16:00:00Z",
+        "date_end": "1947-01-16T17:30:00Z",
+        "host_text": "McKETTRICK-WILLIAMS INC.",
+        "host_controlled": null,
+        "location_text": "Ritz Carlton Hotel",
+        "description": "Showing of pure dye and pure silk dresses by McKettrick-Williams. Also a 10 minute movie. Attendance by invitation only. Contact: Sheila Hawkins, McKettrick-Williams, WI. .7-4438. Publicity: Rosemary Sheehan, CI. 7-8060",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.997401, 40.658002],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_009",
+        "title": "Press Preview of \"Gallery of Ties\"",
+        "date_text": "Thursday January 16",
+        "date_start": "1947-01-16T16:00:00Z",
+        "date_end": "1947-01-16T19:00:00Z",
+        "host_text": "ARTHUR SIEGMAN, INC.",
+        "host_controlled": null,
+        "location_text": "Hotel Plaza",
+        "description": "Necktie showing by Arthur Siegman. of \"Signets’ Gallery of Ties.\" By invitation only. Publicity: Elizabeth Maher Associates EL-5-4248.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Neckwear"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.975591, 40.760317],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_009",
+        "title": "Male Tested Fashion Presentation",
+        "date_text": "Thursday January 16",
+        "date_start": "1947-01-16T17:00:00Z",
+        "date_end": "1947-01-16T18:00:00Z",
+        "host_text": "Cosmopolitan Magazine",
+        "host_controlled": ["Cosmopolitan Magazine"],
+        "location_text": "Stork Club",
+        "description": "Preview of rainwear to be shown to a select male celebrity jury under the direction of Hinda Gould, Fashion Editor. By invitation only. Contacts Louise Whitney Merchandise Editor, CO 5-7300.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Fashion Editors--United States", "Fashion editors"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.973943, 40.756804],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_009",
+        "title": "Ninth Annual Bridal Business Clinic",
+        "date_text": "Friday January 17",
+        "date_start": "1947-01-17T09:00:00Z",
+        "date_end": "1947-01-17T09:00:00Z",
+        "host_text": "THE BRIDES' MAGAZINE",
+        "host_controlled": null,
+        "location_text": "Waldorf-Astoria",
+        "description": "The Bride's Magazine will present its Ninth Annual Bridal Business Clinic at the Waldorf-Astoria for the entire day,  beginning at 9:00 A.M. with Continental Breakfast, and ending with a gala Champagne Party on the Starlight Roof, Bridal Secretaries and Retailers from coast to coast will be on hand for a day of informative glamour. Produced by the Department of Merchandising Service, Alice Rydell, Directors Virginia Andrews,\nreservations MU. 2-1490.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Bridal clothes"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.973943, 40.756804],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_009",
+        "title": "\"March of Dimes\" Fashion Show",
+        "date_text": "Tuesday January 21",
+        "date_start": "1947-01-21T12:30:00Z",
+        "date_end": "1947-01-21T12:30:00Z",
+        "host_text": "New York Dress Institute",
+        "host_controlled": null,
+        "location_text": "Waldorf-Astoria",
+        "description": "Spring and Summer fashions by top New York designers will be presented at the third annual \"March of Dimes\" Fashion Show in New York for the benefit of the National Foundation for Infantile Paralysis. Tickets: $12.00 and $20.00. For tickets, contact: Recia Sobelson, Cl. 6-4571, Ext. 29. Press by invitation only. Director of fashion show: Lester Gaba. Publicity: Eleanor Lambert, PL. 5-8580.",
+        "associated_names": ["Lambert, Eleanor", "National Foundation"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["March of DImes", "Fashion shows"],
+        "tags": ["charity fashion show", "philanthropy"]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.973943, 40.756804],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_010",
+        "title": "Luncheon Fashion Presentation",
+        "date_text": "Wednesday January 22",
+        "date_start": "1947-01-22T13:00:00Z",
+        "date_end": "1947-01-22T13:00:00Z",
+        "host_text": "RUSSEKS FIFTH AVENUE",
+        "host_controlled": ["Russeks (Firm)"],
+        "location_text": "Waldorf-Astoria",
+        "description": "Fashion show to be presented by Russeks during luncheon. Public by reservation. Press by invitation. For reservations, contact \"Frank\",EL. 5-3000, Russeks Publicity: Helen Moran, WI. 7-1900. Waldorf Publicity Office: Annette Goodrich, EL. 5-3000.",
+        "associated_names": ["Russeks (Firm)"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Department stores", "Fashion shows"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.974016, 40.759619],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_010",
+        "title": "Press Preview: New Millinery Collection",
+        "date_text": "Thursday January 23",
+        "date_start": "1947-01-23T15:00:00Z",
+        "date_end": "1947-01-23T15:00:00Z",
+        "host_text": "GERMAINE VITTU",
+        "host_controlled": null,
+        "location_text": "509 MADISON AVENUE",
+        "description": "Exclusive millinery for Spring and early Summer by Germaine Vittu.\nPresentation by Mme. Paule Madoc. Press strictly by invitation.\nPublicitys Anna T. Moore, ST. 9-6000.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Millinery", "Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.98141, 40.752761],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_010",
+        "title": "Press Luncheon and Theatre Party",
+        "date_text": "Wednesday January 29",
+        "date_start": "1947-01-29T13:00:00Z",
+        "date_end": "1947-01-29T13:00:00Z",
+        "host_text": "Lane Bryant",
+        "host_controlled": ["Lane Bryant (Firm)"],
+        "location_text": "465 FIFTH AVENUE",
+        "description": "Lane Bryant will give a preview of its new Fifth Avenue building to the press at a Luncheon-Theatre party to celebrate the opening of their new store. An original musical comedy story of Lane Bryant's history, featuring well-known personalities, will be given at 2:00 P.M., followed by a guided tour of the store. Attendance by invitation only. Publicity: Jerome Klein or Roslyn Kaye, LE. 2-0200, Ext. 9 or 10.",
+        "associated_names": ["Lane Bryant (Firm)"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Plus-size women's clothing"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.973943, 40.756804],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_010",
+        "title": "Luncheon Fashion Presentation",
+        "date_text": "Wednesday January 29",
+        "date_start": "1947-01-29T13:00:00Z",
+        "date_end": "1947-01-29T13:00:00Z",
+        "host_text": "Arnold Constable",
+        "host_controlled": null,
+        "location_text": "Waldorf-Astoria",
+        "description": "New fashions by Arnold Constable will be presented during luncheon.Public by reservations. Press by invitation. For reservations, contact: \"Frank\", EL. 5-3000. Arnold Constable Publicity: Anne Albee, CA. 5-2300, Ext. 202. Waldorf Publicity Offices Annette Goodrich, EL. 5-3000.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.984911, 40.748112],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_010",
+        "title": "Southern Hospitality Cocktail Party",
+        "date_text": "Thursday January 30",
+        "date_start": "1947-01-30T17:30:00Z",
+        "date_end": "1947-01-30T17:30:00Z",
+        "host_text": "OLD SOUTH PERFUMERS",
+        "host_controlled": null,
+        "location_text": "347 FIFTH AVENUE",
+        "description": "Party for press and toiletries buyers to celebrate the opening and to dedicate the new Williamsburg Room for Old South Perfumers at their N. Y. showroom. By invitation only. Contact: Muriel Johnstone, 9 Rockefeller Plaza, CI. 5-7880.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Perfume", "Cosmetics and Toiletries"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.9866, 40.7306],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_010",
+        "title": "FOGA to Show Summer Lines",
+        "date_text": "Monday February 3",
+        "date_start": "1947-02-03T09:00:00Z",
+        "date_end": "1947-02-03T09:00:00Z",
+        "host_text": "Fashion Originators' Guild of America",
+        "host_controlled": null,
+        "location_text": "Manufacturer's Showrooms",
+        "description": "February collections will be the only lines for the season, comprising, with the Spring and Fall, a permanent program for three seasons a year Guild houses presenting Summer lines include: HANSEN BANG, INC.; FRED GREENBERG DRESS CO.; MORRIS & MARCUS; BEN BARRACK, INC.; JOSEPH HALPERT, INC.; PARNIS-LIVINGSTON; WILLIAM BASS DRESS; HORWITZ & DUBERMAN; BEN REIG, INC; CAPRI FROCKS; INTERNATIONAL DRESS CO.; GC, H. D. ROBBINS CO, ; CARLYE DRESS CORP.; JUNIOR LEAGUE FROCKS; PAUL SACHS ORIGINALS; DEITSCH, WERSBA & COPPOLA; KAPLAN & GRABOIS; MARTIN SIMON, INC, ; SAMUEL KASS GOWNS, INC.; HERBERT SONDHEIM; FOX-BROWNIE, INC.; LA RUE DRESSES, INC.; FRANK STARR, INC,; ED GERRICK, INC.; DAVID LEONARD & LEVINE; SUZANNE-AUGUSTINE; A. GOODMAN & CO.; MARY LEE, INC.; HANNAH TROY, INC, Publicity: Leonard W. Gendler, Exec. Secy., CH. 426945.",
+        "associated_names": ["Parnis, Mollie"],
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Clothing trade"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.985744, 40.757231],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_011",
+        "title": "DANCE RECITAL BY JOSE LIMON",
+        "date_text": "Sunday January 5",
+        "date_start": "1947-01-05T20:45:00Z",
+        "date_end": "1947-01-05T20:45:00Z",
+        "host_text": "BELASCO THEATRE",
+        "host_controlled": null,
+        "location_text": "BELASCO THEATRE, 115 WEST 44TH STREET",
+        "description": "Recital by Jose Limon, assisted by Ellen Love, Letitia Ide, Meg Mundan and Miriam Pandor. Tickets: $1.20-$3.60 (tax included). Publicity: Fern Helscher, 115 Hast 57th St, PL 5-3748.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": ["dance"]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.979512, 40.763843],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_011",
+        "title": "RETURN ENGAGEMENT: \"BLOOMER GIRL\"",
+        "date_text": "Monday January 6",
+        "date_start": "1947-01-06T12:00:00Z",
+        "date_end": "1947-02-10T18:00:00Z",
+        "host_text": "CITY CENTER",
+        "host_controlled": null,
+        "location_text": "131 WEST 55TH STREET",
+        "description": "A six-weeks' return engagement of the clever musical about suffragettes,\nfeaturing Nanette Fabray, Dick Smart, Peggy Campbell, Hubert Dilworth,\nand Matt Briggs. Produced by John C. Wilson in association with Nat\nGoldstone. Directed by William Schorr; dances by Agnes De Mille;\ncostumes by Miles White. Publicity: Willard Keefe, Cl. 6-7492.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": ["musical", "theatre", "Broadway"]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.98742, 40.754145],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_011",
+        "title": "NINTH WEEK: METROPOLITAN OPERA,",
+        "date_text": "January 6 to January 12",
+        "date_start": "1947-01-06T18:03:00Z",
+        "date_end": "1947-01-12T18:03:00Z",
+        "host_text": "METROPOLITAN OPERA HOUSE,",
+        "host_controlled": ["Metropolitan Opera (New York, N.Y.)"],
+        "location_text": "B'WAY AT 39TH",
+        "description": "Mon. Jan. 6 at 8:30 PM-BORIS GODUNOFF. Stevens, Pinza, Berini.;\nWed. Jan. 8 at 8:00 P.M--DER ROSENKAVALIER. Jessner, List, Darcy.;\nThurs. Jan. 8 at 8:00 PM--OTELLO. Roman, Lipton, Ralf, Tibbett.;\nFri Jan. 10 at 8:30 P.M.--LA BOHEME. Albanese, Benzell, Tagliavini.;\nSat Jan. 11 at 2:00 P.M.--THE WARRIOR; HANSEL AND GRETEL.\nSat. Jan 11 at 8:15 P.M.--AIDA. Roman, Thebom, Baum, Merrill, Chabay.;\nSun Jan. 12 at 8:00 P.M.--Special benefit performances CARMEN.\nPublicity: Margaret Carson, PE. 6-1200.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": ["Opera"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.987081, 40.758345],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_011",
+        "title": "OPENING: “THE BIG Two\"",
+        "date_text": "Wednesday January 8",
+        "date_start": "1947-01-08T18:10:00Z",
+        "date_end": "1947-01-08T18:10:00Z",
+        "host_text": "BOOTH THEATRE",
+        "host_controlled": null,
+        "location_text": "45TH ST. WEST OF B'WAY",
+        "description": "New comedy by Le Bush-Fekete and Mary Helen Fay, produced by Zlliott Nugent and Robert Montgomery (by arrangement with David Bromson),featuring Claire Trevor and Philip Dorn, with Felix Bressart, Edward Franz, Wauna Paul. Staged by Robert Montgomery. Settings: Jo Mielziner. Costumes: Bianca Stroock. Publicity: Richard Maney, WI. 7-6939.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": ["theatre", "Broadway"]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.980546, 40.763224],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_011",
+        "title": "OPENING: “STREET SCENE\"",
+        "date_text": "Thursday January 9",
+        "date_start": "1947-01-09T18:10:00Z",
+        "date_end": "1947-01-09T18:10:00Z",
+        "host_text": "ADELPHI THEATRE,",
+        "host_controlled": null,
+        "location_text": "54TH ST. EAST OF B'WAY",
+        "description": "Dwight Deere Wiman and The Playwrights’ Company present a musical version of Elmer Rice's drama with Norman Cordon, Anne Jeffreys, Polyna Stoska, Richard Manning and Sydney Rayner. Music by Kurt Weill; book by Elmer Rice. Director: Charles Friedman. Settings: Jo Mielziner. Costumes:Lucinda Ballard. Publicitys William Fields, CI. 5-7930.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.986654, 40.759072],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_011",
+        "title": "OPENING: “FINIAN'S RAINBOW\"",
+        "date_text": "Friday January 10",
+        "date_start": "1947-01-10T18:10:00Z",
+        "date_end": "1947-01-10T18:10:00Z",
+        "host_text": "46TH ST. THEATRE",
+        "host_controlled": null,
+        "location_text": "226 WEST 46TH STREET",
+        "description": "Lee Sabinson and William R. Katzell present a new musical by He Y. Harburg, Fred Saidy and Burton Lane based on Irish legends. Cast features Ella Logan, Albert Sharpe, Donald Richards, David Wayne, Arita Alvanez, and the Lyn Murray singers. Director: Bretaigne Windust. Scenery and lightings Jo Mielziner. Costumes: Bleanor Goldsmith. Publicity: Sam Friedman,CH. 2-8048.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": ["theatre"]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.986025, 40.762853],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19470106_011",
+        "title": "SONJA HENIE HOLLYWOOD ICE REVUE",
+        "date_text": "January 23 to January 30",
+        "date_start": "1947-01-23T12:00:00Z",
+        "date_end": "1947-01-30T12:00:00Z",
+        "host_text": "MADISON SQUARE GARDEN",
+        "host_controlled": null,
+        "location_text": "49TH ST. & 8TH AVE",
+        "description": "Sonja Henie and her Hollywood Ice Revue -- featuring \"The Bon-Bon Shop\",\"The Sleeping Beauty\", \"Pink Tea\", \"Circus Days\", and \"Hula\". Sonja will skate nightly in the Garden, January 23-30 inclusive, and February 3-11 inclusive Tickets: $1.25-$6.00. Publicity: Lillian Jenkins, CGO. 5-6800.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 6, 1947"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.983486, 40.748453],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_002",
+        "title": "Spring Fashion Presentation",
+        "date_text": "Monday January 3",
+        "date_start": "1949-01-03T14:30:00Z",
+        "date_end": "1949-01-03T14:30:00Z",
+        "host_text": "B. ALTMAN & CO.",
+        "host_controlled": ["B. Altman & Co."],
+        "location_text": "361 5th Avenue",
+        "description": "Fashions for juniors, misses and women in an important Spring color will be presented at Atlman's. Open to public. Publ.: Etta Daub, MU. 9-7000.",
+        "associated_names": ["B. Altman & Co."],
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Department stores"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.983634, 40.747406],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_002",
+        "title": "Opening of Spring Handbag Line",
+        "date_text": "Monday January 3",
+        "date_start": "1949-01-03T14:30:00Z",
+        "date_end": "1949-01-03T14:30:00Z",
+        "host_text": "Alan Miller Inc.",
+        "host_controlled": null,
+        "location_text": "172 MADISON AVENUE",
+        "description": "Handbags for Spring, designed by Alan, will be presented to the trade, and press starting January 3. For appointment, contact: OR. 9-3094.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Handbags", "Fashion shows"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.974223, 40.759739],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_002",
+        "title": "Press Preview of Spring Millinery",
+        "date_text": "Tuesday January 4th",
+        "date_start": "1949-01-04T09:30:00Z",
+        "date_end": "1949-01-04T10:30:00Z",
+        "host_text": "Walter Florell",
+        "host_controlled": ["Florell, Walter, 1911-1986"],
+        "location_text": "29 EAST 53RD STREET",
+        "description": "Walter Florell will present his Spring Millinery to the press during breakfast. By invitation only. Publicity: Mildred Kaldor, MU. 9-5420.",
+        "associated_names": ["Florell, Walter, 1911-1986"],
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Millinery", "Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.970759, 40.697754],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_002",
+        "title": "Press Preview of \"Skycruiser Line\"",
+        "date_text": "Tuesday January 4th",
+        "date_start": "1949-01-04T11:00:00Z",
+        "date_end": "1949-01-04T15:00:00Z",
+        "host_text": "Barmon Bros.",
+        "host_controlled": null,
+        "location_text": "51 Vanderbilt Ave.",
+        "description": "Presentation of Spring \"“Skycruiser Line\" by Barmon Brose, manufacturers of \"Junior Clique\" and \"Barbette\" ensembles, to be shown on board a Colonial Airlines DC4 while on non-stop flight to Washington. Commentator: Barbara\nWelles, of Station WOR. Betty Jane Watson, singing star of \"As The Girls\nGo\" will be one of the models. (Note change of date). By invitation only.\nColonial Airlines Publicity: Al Hudson, CI. 5-5900. Barmon Publicity:\nSid Schechtman, Hickory Associates, MU. 7-9274.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Fashion shows", "Airlines"],
+        "tags": ["airline"]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.972281, 40.762885],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_002",
+        "title": "Press Preview of Spring Millinery",
+        "date_text": "Tuesday January 4th",
+        "date_start": "1949-01-04T16:00:00Z",
+        "date_end": "1949-01-04T17:30:00Z",
+        "host_text": "Mary Goodfellow",
+        "host_controlled": null,
+        "location_text": "600 Madison Ave",
+        "description": "\"Caprice Chinois\" -- a new collection of Spring hats in Chinese water colors by Mary Goodfellow. By invitation only. Contact: MU, 83787.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Millinery", "Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.928327, 40.659927],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_002",
+        "title": "Press Preview of Spring Millinery",
+        "date_text": "Wednesday January 5",
+        "date_start": "1949-01-05T09:30:00Z",
+        "date_end": "1949-01-05T10:30:00Z",
+        "host_text": "Lenesta",
+        "host_controlled": null,
+        "location_text": "15 EAST 53RD STREET",
+        "description": "Lenesta will present her Spring Millinery collection to the press. Attendance by invitation only. Contact: PL. 5-6030.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Millinery", "Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.975234, 40.760166],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_002",
+        "title": "Press Preview of Spring Millinery",
+        "date_text": "Wednesday January 5",
+        "date_start": "1949-01-05T12:00:00Z",
+        "date_end": "1949-01-05T13:00:00Z",
+        "host_text": "Madame Pauline",
+        "host_controlled": null,
+        "location_text": "6 EAST 53RD STREET",
+        "description": "Presentation of Spring Millinery by Madame Pauline. Attendance by invitation only. Publicity: Mildred Kaldor, MU. 95420.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Millinery", "Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.974745, 40.763295],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_002",
+        "title": "Preview Of Spring Millinery Fashions",
+        "date_text": "Wednesday January 5",
+        "date_start": "1949-01-05T17:30:00Z",
+        "date_end": "1949-01-05T18:30:00Z",
+        "host_text": "LADDIE NORTHRIDGE",
+        "host_controlled": null,
+        "location_text": "1 W 57th street",
+        "description": "Laddie Northridge will present his Spring Millinery to the press and buyers. By invitation only. Publicity: Elizabeth Maher, El. 5-4248.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Millinery", "Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.9866, 40.7306],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_003",
+        "title": "\"JANUARY THAW\" PARTY, SPRING HOSIERY SHOW,",
+        "date_text": "Wednesday January 5",
+        "date_start": "1949-01-05T17:00:00Z",
+        "date_end": "1949-01-05T17:00:00Z",
+        "host_text": "Bryans",
+        "host_controlled": null,
+        "location_text": null,
+        "description": "BRYANS \"JANUARY THAW\" PARTY, SPRING HOSIERY SHOW, ORIGINALLY SCHEDULED FOR WEDNESDAY, JAN. 5 AT 5:00 P.M. HAS BEEN CANCELLED.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.974743, 40.75976],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_003",
+        "title": "Press Preview of Spring Millinery",
+        "date_text": "Thursday January 6",
+        "date_start": "1949-01-05T10:30:00Z",
+        "date_end": "1949-01-05T10:30:00Z",
+        "host_text": "Sally Victor",
+        "host_controlled": ["Victor, Sally, 1905-1977"],
+        "location_text": "18 EAST 53RD STREET",
+        "description": "Press showing of Sally Victor's new millinery for Spring.Attendance by invitation only. Publicity: Mildred Josephs, PL. 3-7450.",
+        "associated_names": ["Victor, Sally, 1905-1977"],
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Millinery", "Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.971044, 40.76086],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_003",
+        "title": "Press Preview of Millinery Fashions",
+        "date_text": "Thursday January 6",
+        "date_start": "1949-01-06T12:00:00Z",
+        "date_end": "1949-01-06T12:00:00Z",
+        "host_text": "Emme",
+        "host_controlled": null,
+        "location_text": "21 East 56th Street",
+        "description": "Presentation of Spring Millinery by Emme at a press luncheon.Attendance by invitation only. Contacts MU. 8-1689.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Millinery", "Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.99, 40.75284],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_003",
+        "title": "Summer Collection of Terry Rogers Originals",
+        "date_text": "Friday January 7",
+        "date_start": "1949-01-07T10:00:00Z",
+        "date_end": "1949-01-07T12:00:00Z",
+        "host_text": "Gross-Sydney",
+        "host_controlled": null,
+        "location_text": "498 Seventh Ave",
+        "description": "Preview of the summer collection of Terry Rogers casual originals, including new cottons and spun rayons. Attendance by invitation only.Publicity: Ann R. Silver Associates, MU. 7-3654.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Textile fabrics. Textile industry"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.978431, 40.753686],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_003",
+        "title": "Millinery Fashion Show and Luncheon",
+        "date_text": "Friday January 7",
+        "date_start": "1949-01-07T12:15:00Z",
+        "date_end": "1949-01-07T13:30:00Z",
+        "host_text": "Fashion Group International",
+        "host_controlled": null,
+        "location_text": "Hotel Biltmore",
+        "description": "The Fashion Group will present a “Double Feature\" millinery shows (1) French hats especially created for the Fashion Group by ten leading French Milliners. Commentator: Lydia, milliner and importer. (2) Hats from ten leading American designers. Commentator: Maud G. Moody, Millinery Editor, Women's Wear Daily. Chairman of Millinery Div.: Frances Hodges. Price (including tax and tip): $4.00 for members;\n$4.50 for guests. Contact: The Fashion Group, Cl. 7-3940.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Millinery", "Hats"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.975997, 40.765323],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_003",
+        "title": "Special Brunch for Visiting Editors",
+        "date_text": "Sunday January 9",
+        "date_start": "1949-01-09T10:30:00Z",
+        "date_end": "1949-01-09T10:30:00Z",
+        "host_text": "National Show Institute",
+        "host_controlled": null,
+        "location_text": "Ritz Carleton Hotel",
+        "description": "The National Shoe Institute will invite out-of-town editors to a brunch. Attendance by invitation only. Contact: Alice Dowd, J. Walter Thompson, MU. 3-2000, Ext. 304.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Shoes"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.973943, 40.756804],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_003",
+        "title": "\"Fifty Years Of Daytime Fashions\"",
+        "date_text": "Monday January 10",
+        "date_start": "1949-01-10T16:00:00Z",
+        "date_end": "1949-01-10T17:00:00Z",
+        "host_text": "National Association of House Dress Manufacturers",
+        "host_controlled": null,
+        "location_text": "Waldorf-Astoria Hotel",
+        "description": "The press will be invited to a dress rehearsal of the daytime fashion show which will be part of the Golden Anniversary dinner program of the National Association of House Dress Manufacturers, to be held Tuesday, Jan. 11, at 7:30 P.M. Fashion Ballet of authentic oldtime costumes will\nbe shown, along with completely original presentation of their modern\ncounterparts. Attendance by invitation. Publicity: Joan Klein,\nFashion Advertising Co., BR. 95050.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.97736, 40.7546],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_003",
+        "title": "Semi-Annual Accessories Show",
+        "date_text": "Monday January 10",
+        "date_start": "1949-01-10T16:30:00Z",
+        "date_end": "1949-01-10T18:30:00Z",
+        "host_text": "Ann R. Silver for Leading Accessory Designers",
+        "host_controlled": null,
+        "location_text": "Hotel Roosevelt",
+        "description": "Accessories Fashion Show for local and out-of-town press, and department store executives. Showing at 5:00 P.M. Attendance by invitation, which must be presented at the door. Publ.: Ann R. Silver Assoc., MU. 778654.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Dress accessories", "Fashion shows"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.965258, 40.676104],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_003",
+        "title": "Cocktail for Visiting Press",
+        "date_text": "Monday January 10",
+        "date_start": "1949-01-10T17:30:00Z",
+        "date_end": "1949-01-10T19:30:00Z",
+        "host_text": "Primrose House Inc.",
+        "host_controlled": null,
+        "location_text": "379 Park Ave",
+        "description": "Primrose House will display new items which will be added to their Treatment Line. By invitation only. Publicity: Lola Christie, PL. 33-2939.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.99, 40.75284],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_004",
+        "title": "Spring collection for visiting press",
+        "date_text": "Monday January 10",
+        "date_start": "1949-01-10T19:00:00Z",
+        "date_end": "1949-01-10T20:00:00Z",
+        "host_text": "Maurice Rentner",
+        "host_controlled": null,
+        "location_text": "498 Seventh Ave.,",
+        "description": "Maurice Rentner will present his \"Spring Collection in the Fifth Dimension” to the out-of-town press. Champagne buffet after the show. Attendance by invitation only. Publicity: Fredy Schey, LA. 4-6968.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.966132, 40.767502],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_004",
+        "title": "National Lingerie and Negligee Show",
+        "date_text": "Monday Jan. 10 to Jan. 13",
+        "date_start": "1949-01-10T12:00:00Z",
+        "date_end": "1949-01-13T17:41:00Z",
+        "host_text": "Lingerie and Negligee Industry",
+        "host_controlled": null,
+        "location_text": "71st Infantry Armory, Park Ave. and 34th",
+        "description": "First presentation of lingerie and negligees, to enable retailers to view every phase of the lingerie market. Lighting and productions: Abe Feder,  By invitations Fashion Coordinator and Publ.: Mildred Kaldor, MU. 95420.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Lingerie"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.98257, 40.747],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_004",
+        "title": "Showing of Spring Handbag Line",
+        "date_text": "Week of January 10",
+        "date_start": "1949-01-10T12:00:00Z",
+        "date_end": "1949-01-14T17:43:00Z",
+        "host_text": "J. JOLLES STUDIOS, INC.",
+        "host_controlled": null,
+        "location_text": "33 East 33rd St.",
+        "description": "Advance Spring handbags and fashions in needlepoint will be presented to the press and trade. Publicity: Mrs. Dee T. Bass, MU. 3-0844,",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Handbags"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.990558, 40.749693],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_004",
+        "title": "38TH ANNUAL CONVENTION OF THE NATIONAL RETAIL DRY GOODS ASSOCIATION",
+        "date_text": "Monday January 10",
+        "date_start": "1949-01-10T12:00:00Z",
+        "date_end": "1949-01-10T23:00:00Z",
+        "host_text": "NATIONAL RETAIL DRY GOODS ASSOCIATION",
+        "host_controlled": ["National Retail Dry Goods Association (U.S.)"],
+        "location_text": "Hotel Pennsylvania",
+        "description": "38TH ANNUAL CONVENTION OF THE NATIONAL RETAIL DRY GOODS ASSOCIATION AT\nTHE HOTEL PENNSYLVANIA.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.985963, 40.748055],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_004",
+        "title": "Showing of Infants' and Tots' collection",
+        "date_text": "Week of January 10",
+        "date_start": "1949-01-10T12:00:00Z",
+        "date_end": "1949-01-14T17:43:00Z",
+        "host_text": "International Needlecraft",
+        "host_controlled": null,
+        "location_text": "10 West 33rd",
+        "description": "Showing for press and trade of hand-finished, hand-embroidered fashions for infants and tots by Orloff. Publicity Dee T. Bass, LA. 4-8618,",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.983278, 40.747015],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_004",
+        "title": "Spring Bag Showing for Visiting Editors",
+        "date_text": "Week of January 10",
+        "date_start": "1949-01-10T12:00:00Z",
+        "date_end": "1949-01-14T17:43:00Z",
+        "host_text": "Joseph of Gold Seal Importers",
+        "host_controlled": null,
+        "location_text": "30 East 33rd",
+        "description": "The Spring and Summer line of Bags by Josef will be show to the out-oftown press. Publicitys Nona James, VO. 5-3440.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Handbags"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.986389, 40.754715],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_004",
+        "title": "Showing of Fashions for Little People",
+        "date_text": "Tuesday January 11",
+        "date_start": "1949-01-11T08:00:00Z",
+        "date_end": "1949-01-11T09:00:00Z",
+        "host_text": "Schiffli Embroiderers Manufacturers Bureau",
+        "host_controlled": null,
+        "location_text": "Longchamps Broadway and 41st street",
+        "description": "Showing for the out-of-town press of embroidered fashions for children by Schiffli. By invitation only. Publicity: Dora Miller, LO. 3=4285,",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.973943, 40.756804],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_004",
+        "title": "Spring Millinery Breakfast Forum",
+        "date_text": "Tuesday January 11",
+        "date_start": "1949-01-11T09:00:00Z",
+        "date_end": "1949-01-11T11:00:00Z",
+        "host_text": "Millinery Merchandising Executives' Association",
+        "host_controlled": ["Millinery Merchandising Executives Association"],
+        "location_text": "Waldorf-Astoria Hotel",
+        "description": "Semi-Annual forum of the MMEA with fashion, merchandising and business experts discussing trends, problems and developments. Virginia Pope,\nfashion editor of the N.Y. Times, will again direct the clinic. Attendance by invitation only. Publicity: Ruth Weintraub, PL. 3-2117.",
+        "associated_names": ["Millinery Merchandising Executives Association"],
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Hats", "Millinery"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.975997, 40.765323],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_004",
+        "title": "Fourteenth Bridal Breakfast Clinic",
+        "date_text": "Tuesday January 11",
+        "date_start": "1949-01-11T10:00:00Z",
+        "date_end": "1949-01-11T18:00:00Z",
+        "host_text": "The Bride's Magazine",
+        "host_controlled": null,
+        "location_text": "Ritz Carleton Hotel",
+        "description": "Brides House, Ince, announces \"The Bride's Magazine\" Fourteenth Bridal\nBusiness Clinic, at the Crystal Gardens and Grand Ballroom of the RitzCarlton for the entire day. In addition to a series of informative business sessions, the program includes a luncheon in the Grand Ballroom,\nfeaturing a leading radio personality; a Home Furnishings Show; and will\nbe climaxed by a Fashion Show ending at 4:15 P.M. A champagne party will\nfollow until 5:30 PeM. Attendance by invitation, for retailers from\nleading stores, coast to coast and Canada; and resident buyers.\nContact: Alice Rydell, MU. 2-1490.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Bridal clothes"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.971273, 40.762321],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_005",
+        "title": "Press Preview of Spring Millinery",
+        "date_text": "Tuesday January 11",
+        "date_start": "1949-01-11T11:00:00Z",
+        "date_end": "1949-01-11T12:00:00Z",
+        "host_text": "Mr. John Inc.",
+        "host_controlled": null,
+        "location_text": "53 East 57th St.",
+        "description": "Mr. John introduces his \"Let It Go To Your Head\" Spring millinery collection in his new building. For New York press, by invitation only. Publicity: Peter Brandon or Debra Griffith, MU. 68-4906.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Millinery"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.99, 40.75284],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_005",
+        "title": "Spring collection for Visiting Press",
+        "date_text": "Tuesday January 11",
+        "date_start": "1949-01-11T12:15:00Z",
+        "date_end": "1949-01-11T13:15:00Z",
+        "host_text": "Paul Parnes",
+        "host_controlled": null,
+        "location_text": "498 7th Ave.",
+        "description": "Paul Parnes will present his Spring dress and suit collection to the out-of-town press. Attendance by invitation only. Publicity: Gladys Steiner, Lester Herrison, Inc., 341 Madison Avenue, MU. 9-1630.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Fashion shows"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.986582, 40.752532],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_005",
+        "title": "Spring collection for Visiting Press",
+        "date_text": "Tuesday January 11",
+        "date_start": "1949-01-11T14:00:00Z",
+        "date_end": "1949-01-11T16:30:00Z",
+        "host_text": "Capri",
+        "host_controlled": null,
+        "location_text": "1372 Broadway",
+        "description": "Capri will present their Spring collection to the out-of-town editors.Attendance by invitation only. Publicity: Elsie Brandt, WI. 7-7430.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.98885, 40.75409],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_005",
+        "title": "Press Preview: New Cotton Collection",
+        "date_text": "Tuesday January 11",
+        "date_start": "1949-01-11T16:00:00Z",
+        "date_end": "1949-01-11T17:00:00Z",
+        "host_text": "Jerry Parnis",
+        "host_controlled": null,
+        "location_text": "530 7th Ave.",
+        "description": "“Cottons Are in the Picture Again for 1949\" -new cotton collection by Jerry Parnis. By invitation only. Publicity: Mildred Kaldor, MU. 9=-5420.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.974451, 40.761304],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_005",
+        "title": "Advance Collection for Visiting Press",
+        "date_text": "Tuesday January 11",
+        "date_start": "1949-01-11T17:00:00Z",
+        "date_end": "1949-01-11T19:00:00Z",
+        "host_text": "Joseph Halpert",
+        "host_controlled": null,
+        "location_text": "St. Regis Hotel",
+        "description": "Joseph Halpert will show his complete Advance Collection, including a special group of dresses designed by Jacques Fath and manufactured by Joseph Halpert. For local and out-of-town press, by invitation only.\nPublicity: Viola Shefer, Pl 3~3173.",
+        "associated_names": ["Fath, Jacques, 1912-1954"],
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Fashion shows"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.971273, 40.762321],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_005",
+        "title": "Millinery Showing for Visiting Editors",
+        "date_text": "Tuesday January 11",
+        "date_start": "1949-01-11T18:00:00Z",
+        "date_end": "1949-01-11T19:00:00Z",
+        "host_text": "Mr. John Inc.",
+        "host_controlled": null,
+        "location_text": "53 East 57th St.",
+        "description": "Mr. John opens his new building with a press preview of his \"Let It Go To Your Head\" Spring collection. Attendance by invitation only. Publicity: Peter Brandon or Debra Griffith, MU. 8-4906.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Millinery"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.986089, 40.757554],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_005",
+        "title": "Spring Hat Fashion Show and Dinner",
+        "date_text": "Tuesday January 11",
+        "date_start": "1949-01-11T19:00:00Z",
+        "date_end": "1949-01-11T20:00:00Z",
+        "host_text": "Millinery Fashion Bureau; Millinery Stab. Comm.",
+        "host_controlled": null,
+        "location_text": "Hotel Astor",
+        "description": "The semi-annual millinery fashion show for buyers, retailers and the fashion press. Reservations: Dinner and show, $17.50 (including tax); Mezzanines show only, $8.50 (including tax). Show at 8:30 P.M. For\ntickets, contact: Millinery Stab. Comm., 1450 B'way, LO. 4-7800. Press\nby invitation. Publicity: Mary Kelley, Millinery Fashion Bureau,LU. 2=2250.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Millinery", "Fashion shows"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.97635, 40.75203],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_005",
+        "title": "Millinery Showing of Out-of-town pres",
+        "date_text": "Wednesday January 12",
+        "date_start": "1949-01-12T07:45:00Z",
+        "date_end": "1949-01-12T09:45:00Z",
+        "host_text": "Millinery Fashion Bureau",
+        "host_controlled": null,
+        "location_text": "Hotel Commodore",
+        "description": "Presentation of Spring millinery for out-of-town press only. Attendance by invitation only. Publicity: Mary Kelley, LU. 2-2250.",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": ["Millinery"],
+        "tags": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-73.99, 40.75284],
+        "type": "Point"
+      },
+      "properties": {
+        "identifier": "US.NN.FIT.SC.362.1.1.1.19490103_005",
+        "title": "Press Preview of Cotton collection",
+        "date_text": "Wednesday January 12",
+        "date_start": "1949-01-12T09:00:00Z",
+        "date_end": "1949-01-12T10:00:00Z",
+        "host_text": "Sigmund Crane",
+        "host_controlled": null,
+        "location_text": "498 7th Ave.,",
+        "description": "Sigmund Crane presents his collection of “Carefree Cottons\" by a leading American designer, to retail under $30.00. Attendance by invitation only. Publicity: Ruth Hammer Associates, El 5-6043,",
+        "associated_names": null,
+        "appears_in": ["Fashion Calendar, January 3, 1949"],
+        "categories": null,
+        "tags": null
+      },
+      "type": "Feature"
+    }
+  ]
+}
