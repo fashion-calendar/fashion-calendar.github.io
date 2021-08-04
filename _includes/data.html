@@ -1,6 +1,8 @@
-<h1>Fashion Calendar Data</h1>
 <div class="row">
-  <div id="wrapper"></div>
+  <h1 class="text-center mb-4">Fashion Calendar Data</h1>
+  <div class="col-md-12">
+    <div id="data-wrapper"></div>
+  </div>
 </div>
 
 
@@ -8,42 +10,88 @@
   $.getJSON("{{ site.baseurl }}/assets/geojson/fashion_calendar_data.json", function(geoJSON) {
     new gridjs.Grid({
       search: true,
-      pagination: true,
       sort: true,
+      pagination: true,
       columns: [{
+          // 0
           data: (row) => row.properties.title,
           name: 'What\'s Going On'
         },
         {
+          // 1
           data: (row) => row.properties.date_text,
           name: 'When'
         },
         {
+          // 2
           data: (row) => row.properties.host_text,
           name: 'Given By'
         },
         {
+          // 3
           data: (row) => row.properties.location_text,
           name: 'Where'
         },
         {
+          // 4
           data: (row) => row.properties.description,
           name: 'Description'
         },
         {
+          // 5
           data: (row) => row.properties.date_start,
           name: 'Date Start'
         },
         {
+          // 6
           data: (row) => row.properties.date_end,
           name: 'Date End'
         },
         {
+          // 7
           data: (row) => row.properties.appears_in,
-          name: 'Appears in'
+          name: 'Appears in',
+          formatter: (cell, row) => gridjs.html(`<a href='/issues/${row.cells[11].data.split("_")[0]}/'>${cell}</a>`)
+        },
+        {
+          // 8
+          data: (row) => row.properties.associated_names,
+          name: 'Names',
+          formatter: (cell, row) => row.cells[8].data ? row.cells[8].data.join('; ') : ""
+        },
+        {
+          // 9
+          data: (row) => row.properties.categories,
+          name: 'Categories',
+          formatter: (cell, row) => row.cells[9].data ? row.cells[9].data.join(', ') : ""
+        },
+        {
+          // 10
+          data: (row) => [row.properties.tags],
+          name: 'Tags',
+          formatter: (cell, row) => row.cells[10].data ? row.cells[10].data.join(', ') : ""
+        },
+        {
+          // 11
+          data: (row) => row.properties.identifier,
+          name: 'identifier',
+          hidden: true
         }
+
       ],
       data: geoJSON["features"]
-    }).render(document.getElementById("wrapper"));
+    }).render(document.getElementById("data-wrapper"));
+    $("th").each(function() {
+      var current_width = parseInt($(this).css('width'), 10);
+      var new_width = current_width + 25;
+      $(this).css({
+        "min-width": new_width + 'px',
+        "width": new_width + 'px'
+      });
+    });
+    $('th[data-column-id="description"]').css({
+      "min-width": "500px",
+      "width": "500px"
+    });
   });
 </script>

@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en-us" class="h-100">
+
 <head>
   <!-- Canonical link to help search engines -->
   <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}" />
@@ -6,22 +9,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <title>
-    {% if page.title == "Home" %}
-    {{ site.title }}
-    {% else %}
-    {{ page.title }}
-    {% endif %}
-  </title>
+
 
   <!-- Icon -->
   <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico" type="image/x-icon">
   <link rel="shortcut icon" href="{{ site.baseurl }}/assets/images/favicon.ico" type="image/x-icon">
 
-  <!-- Bootstrap CSS -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <!-- styles -->
-  <link rel="stylesheet" type="text/css" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" />
   <link rel="stylesheet" type="text/css" href="https://unpkg.com/gridjs/dist/theme/mermaid.min.css" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin="" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" integrity="sha384-lPzjPsFQL6te2x+VxmV6q1DpRxpRk0tmnl2cpwAO5y04ESyc752tnEWPKDfl1olr" crossorigin="anonymous">
@@ -30,10 +24,33 @@
 
   <!-- Javascript -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
   <script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
   <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
   <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js" integrity="sha384-RLIyj5q1b5XJTn0tqUhucRZe40nFTocRP91R/NkRJHwAe4XxnTV77FXy/vGLiec2" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/gh/dwilhelm89/LeafletSlider/dist/leaflet.SliderControl.min.js"></script>
 
 </head>
+
+<body>
+  <h1>Fashion Calendar Data</h1>
+  <div class="row">
+    <div id="wrapper"></div>
+  </div>
+
+
+  <script>
+    $.getJSON("/assets/geojson/fashion_calendar_data.json", function(geoJSON) {
+      new gridjs.Grid({
+        columns: [{
+          name: 'Name',
+          width: '500px'
+        }, 'Email', 'Phone Number'],
+        data: [
+          ['John', 'john@example.com', '(353) 01 222 3333'],
+          ['Mark', 'mark@gmail.com', '(01) 22 888 4444']
+        ]
+      }).render(document.getElementById("wrapper"));
+    });
+  </script>
+</body>
+
+</html>

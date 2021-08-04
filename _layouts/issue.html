@@ -1,11 +1,223 @@
 ---
 layout: default
 ---
-<h1 class="mb-3">{{page.title}}</h1>
-<div class="ratio ratio-4x3">
-  <iframe src="https://archive.org/embed/{{page["IA ID"]}}/page/n0/mode/2up" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<div class="row">
+  <div class="col-12 mb-5">
+    <h1 class="mb-4">{{page.title}}</h1>
+    <div class="ratio ratio-4x3">
+      <iframe src="https://archive.org/embed/{{page["IA ID"]}}/page/n0/mode/2up" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+<div class="row" id="issue-data">
+  <div class="col-12 mb-5">
+    <h2 class="mb-4">Issue Map</h2>
+    <div id="leaflet-map" data-id="{{page["SPARC Reference Code"]}}">
+    </div>
+  </div>
+  <div class="col-12">
+    <h2 class="mb-4">Issue data</h2>
+    <div id="data-wrapper"></div>
+  </div>
 </div>
 
-<h2>Issue Map</h2>
+<script type="text/javascript">
+  function onEachFeature(feature, layer) {
 
-<h2>Issue data</h2>
+    function dateConverter(featureDate) {
+      var iso = new Date(featureDate);
+      var m = iso.getUTCMonth();
+      var d = iso.getUTCDate();
+      var y = iso.getUTCFullYear();
+      var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+      var mlong = months[m];
+      var fulldate = mlong + " " + d + ", " + y;
+      return fulldate;
+    }
+
+    var popup_content = '';
+    if (feature.properties.title) {
+      popup_content += '<h1>' + feature.properties.title;
+      if (feature.properties.host_text) {
+        popup_content += '<br><small class="text-muted">' + feature.properties.host_text + '</small>';
+      }
+      popup_content += '</h1>';
+    }
+    if (feature.properties.location_text || feature.properties.date_text || feature.properties.date_start) {
+      popup_content += '<ul class="list-unstyled">';
+
+      if (feature.properties.date_start) {
+        popup_content += '<li>' + dateConverter(feature.properties.date_start);
+        if (feature.properties.date_end) {
+          if (dateConverter(feature.properties.date_start) != dateConverter(feature.properties.date_end)) {
+            popup_content += ' - ' + dateConverter(feature.properties.date_end);
+          }
+        }
+        popup_content += '</li>';
+      } else if (feature.properties.date_text) {
+        popup_content += '<li>' + feature.properties.date_text + '</li>';
+      }
+      if (feature.properties.location_text) {
+        popup_content += '<li>' + feature.properties.location_text + '</li>';
+      }
+      if (feature.properties.city) {
+        popup_content += '<li>' + feature.properties.location_text + '</li>';
+      }
+      popup_content += '</ul>';
+    }
+    if (feature.properties.description) {
+      popup_content += '<p>' + feature.properties.description + '</p>';
+    }
+    popup_content += '<dl>';
+    if (feature.properties.appears_in) {
+      popup_content += '<dt>Appears in</dt>';
+      $.each(feature.properties.appears_in, function(index, value) {
+        issue_link = '/issues/' + feature.properties.identifier.split('_')[0] + '/'
+        popup_content += '<dd><a href="' + issue_link + '">' + value + '</a></dd>';
+      });
+    }
+    if (feature.properties.associated_names) {
+      popup_content += '<dt>Names</dt>';
+      $.each(feature.properties.associated_names, function(index, value) {
+        popup_content += '<dd>' + value + '</dd>';
+      });
+    }
+    if (feature.properties.categories) {
+      popup_content += '<dt>Categories</dt>';
+      $.each(feature.properties.categories, function(index, value) {
+        popup_content += '<dd>' + value + '</dd>';
+      });
+    }
+    if (feature.properties.tags) {
+      popup_content += '<dt>Tags</dt>';
+      $.each(feature.properties.tags, function(index, value) {
+        popup_content += '<dd>' + value + '</dd>';
+      });
+    }
+    popup_content += '</dl>';
+    var popup = L.popup({
+      maxWidth: 500
+    }).setContent(popup_content);
+    layer.bindPopup(popup);
+  }
+
+  $.getJSON("{{ site.baseurl }}/assets/geojson/fashion_calendar_data.json", function(geoJSON) {
+    var identifier = $('#leaflet-map').data("id");
+    const thisGeoJSON = {
+      "type": "FeatureCollection",
+      "features": []
+    };
+    $.each(geoJSON["features"], function(index, feature) {
+      if (feature["properties"]["identifier"].split('_')[0] == identifier) {
+        thisGeoJSON["features"].push(feature);
+      }
+    });
+    if (thisGeoJSON["features"].length) {
+      console.log(thisGeoJSON["features"]);
+      var map = L.map('leaflet-map').setView([40.7621, -73.9280], 12);
+      L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZml0ZGlnaXRhbGluaXRpYXRpdmVzIiwiYSI6ImNqZ3FxaWI0YTBoOXYyenA2ZnVyYWdsenQifQ.ckTVKSAZ8ZWPAefkd7SOaA', {
+        id: 'mapbox/light-v10',
+        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' + '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' + 'Imagery © <a href="http://mapbox.com">Mapbox</a>'
+      }).addTo(map);
+      var markers = L.markerClusterGroup({
+        maxClusterRadius: 5
+      });
+
+      var geoJsonLayer = L.geoJSON(thisGeoJSON, {
+        onEachFeature: onEachFeature
+      });
+      markers.addLayer(geoJsonLayer);
+      map.addLayer(markers);
+
+      // Grid.js
+      new gridjs.Grid({
+        search: true,
+        sort: true,
+        pagination: true,
+        columns: [{
+            // 0
+            data: (row) => row.properties.title,
+            name: 'What\'s Going On'
+          },
+          {
+            // 1
+            data: (row) => row.properties.date_text,
+            name: 'When'
+          },
+          {
+            // 2
+            data: (row) => row.properties.host_text,
+            name: 'Given By'
+          },
+          {
+            // 3
+            data: (row) => row.properties.location_text,
+            name: 'Where'
+          },
+          {
+            // 4
+            data: (row) => row.properties.description,
+            name: 'Description'
+          },
+          {
+            // 5
+            data: (row) => row.properties.date_start,
+            name: 'Date Start'
+          },
+          {
+            // 6
+            data: (row) => row.properties.date_end,
+            name: 'Date End'
+          },
+          {
+            // 7
+            data: (row) => row.properties.appears_in,
+            name: 'Appears in',
+            formatter: (cell, row) => gridjs.html(`<a href='/issues/${row.cells[11].data.split("_")[0]}/'>${cell}</a>`)
+          },
+          {
+            // 8
+            data: (row) => row.properties.associated_names,
+            name: 'Names',
+            formatter: (cell, row) => row.cells[8].data ? row.cells[8].data.join('; ') : ""
+          },
+          {
+            // 9
+            data: (row) => row.properties.categories,
+            name: 'Categories',
+            formatter: (cell, row) => row.cells[9].data ? row.cells[9].data.join(', ') : ""
+          },
+          {
+            // 10
+            data: (row) => [row.properties.tags],
+            name: 'Tags',
+            formatter: (cell, row) => row.cells[10].data ? row.cells[10].data.join(', ') : ""
+          },
+          {
+            // 11
+            data: (row) => row.properties.identifier,
+            name: 'identifier',
+            hidden: true
+          }
+
+        ],
+        data: thisGeoJSON["features"]
+      }).render(document.getElementById("data-wrapper"));
+      $("th").each(function() {
+        var current_width = parseInt($(this).css('width'), 10);
+        var new_width = current_width + 25;
+        $(this).css({
+          "min-width": new_width + 'px',
+          "width": new_width + 'px'
+        });
+      });
+      $('th[data-column-id="description"]').css({
+        "min-width": "500px",
+        "width": "500px"
+      });
+    } else {
+      $('#issue-data').children().remove();
+      $('#issue-data').append("<h2>Issue Data</h2><p>The data for this issue is still in the process of being compiled.</p>")
+    }
+  });
+</script>
