@@ -113,7 +113,15 @@ layout: default
       }
     });
     if (thisGeoJSON["features"].length) {
-      console.log(thisGeoJSON["features"]);
+      const deNullGeoJSON = {
+        "type": "FeatureCollection",
+        "features": []
+      };
+      $.each(thisGeoJSON["features"], function(index, feature) {
+        if (feature["geometry"]["coordinates"] != null) {
+          deNullGeoJSON["features"].push(feature);
+        }
+      });
       var map = L.map('leaflet-map').setView([40.7621, -73.9280], 12);
       L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZml0ZGlnaXRhbGluaXRpYXRpdmVzIiwiYSI6ImNqZ3FxaWI0YTBoOXYyenA2ZnVyYWdsenQifQ.ckTVKSAZ8ZWPAefkd7SOaA', {
         id: 'mapbox/light-v10',
@@ -123,7 +131,7 @@ layout: default
         maxClusterRadius: 5
       });
 
-      var geoJsonLayer = L.geoJSON(thisGeoJSON, {
+      var geoJsonLayer = L.geoJSON(deNullGeoJSON, {
         onEachFeature: onEachFeature
       });
       markers.addLayer(geoJsonLayer);
