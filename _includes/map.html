@@ -90,13 +90,15 @@
       id: 'mapbox/light-v10',
       attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' + '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' + 'Imagery © <a href="http://mapbox.com">Mapbox</a>'
     }).addTo(map);
-    var markers = L.markerClusterGroup({
-      maxClusterRadius: 5
-    });
 
     var geoJsonLayer = L.geoJSON(geoJSON, {
       onEachFeature: onEachFeature
     });
+
+    L.markerClusterGroup.layerSupport({
+      maxClusterRadius: 5
+    }).addTo(map).checkIn(geoJsonLayer);
+
     var sliderControl = L.control.sliderControl({
       position: "topright",
       layer: geoJsonLayer,
@@ -105,8 +107,6 @@
       showAllOnStart: true,
       alwaysShowDate: true
     });
-    markers.addLayer(geoJsonLayer);
-    map.addLayer(markers);
     map.addControl(sliderControl);
     sliderControl.startSlider();
   });
