@@ -3,7 +3,7 @@ title: Acknowledgements
 layout: about
 ---
 # Acknowledgements
-The Ruth Finley Collection: Digitizing 70 Years of the Fashion Calendar is funded with a Hidden Collections Grant from the Council on Library and Information Resources (CLIR) and is made possible with funding from the Andrew W. Mellon Foundation.
+The Ruth Finley Collection: Digitizing 70 Years of the Fashion Calendar is funded with a Hidden Collections Grant from the [Council on Library and Information Resources](https://www.clir.org/) (CLIR) and is made possible with funding from the Andrew W. Mellon Foundation.
 
 ## Co-Principal Investigators
 Natalie Nudell, Adjunct Assistant Professor, History of Art, FIT  
