@@ -34,6 +34,8 @@ menu:
     link: /data/
   - label: About
     link: /about/
+  - label: Acknowledgements
+    link: /acknowledgements/
 
 # collection settings
 collections:
