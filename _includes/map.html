@@ -84,7 +84,7 @@
     layer.bindPopup(popup);
   }
 
-  $.getJSON("{{ site.baseurl }}/assets/geojson/fashion_calendar_data.json", function(geoJSON) {
+  $.getJSON("{{ site.baseurl }}/assets/json/geo.json", function(geoJSON) {
     const deNullGeoJSON = {
       "type": "FeatureCollection",
       "features": []

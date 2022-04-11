@@ -101,7 +101,7 @@ layout: default
     layer.bindPopup(popup);
   }
 
-  $.getJSON("{{ site.baseurl }}/assets/geojson/fashion_calendar_data.json", function(geoJSON) {
+  $.getJSON("{{ site.baseurl }}/assets/json/geo.json", function(geoJSON) {
     var identifier = $('#leaflet-map').data("id");
     const thisGeoJSON = {
       "type": "FeatureCollection",
